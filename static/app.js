@@ -140,7 +140,7 @@ function matchGame(kind) {
     const b = e.target.closest("button"); if (!b) return;
     if (b.dataset.side === "L") {
       btns.forEach(x => x.dataset.side === "L" && x.classList.remove("sel"));
-      selL = b; b.classList.add("sel"); say(words[b.dataset.i].word);
+      selL = b; b.classList.add("sel");
     } else if (selL) {
       if (selL.dataset.i === b.dataset.i) {
         selL.classList.remove("sel"); selL.classList.add("done"); b.classList.add("done");
@@ -167,11 +167,10 @@ function spell(i, firstTries) {
   let clean = true, locked = false;
   app.innerHTML = `${dots(i, words.length)}<div class="card">
     <div class="big-emoji" style="font-size:80px">${w.emoji}</div>
-    <p class="meaning">${w.meaning}</p><button class="speak" id="sp">🔊 Hear it</button></div>
+    <p class="meaning">${w.meaning}</p></div>
     <div class="slots" id="sl"></div><div class="pool" id="pl"></div><div class="msg" id="m"></div>
     <div class="row"><button class="alt" id="hint">💡 Hint</button><button class="alt" id="clr">↺ Clear</button></div>`;
   const sl = document.getElementById("sl"), pl = document.getElementById("pl"), m = document.getElementById("m");
-  document.getElementById("sp").onclick = () => say(w.word);
   function draw() {
     sl.innerHTML = placed.map((p, k) => `<button class="slot ${p !== null ? "filled" : ""}" data-k="${k}">${p !== null ? letters[p].toUpperCase() : ""}</button>`).join("");
     pl.innerHTML = letters.map((ch, k) => `<button class="letter ${placed.includes(k) ? "used" : ""}" data-k="${k}">${ch.toUpperCase()}</button>`).join("");
@@ -180,7 +179,7 @@ function spell(i, firstTries) {
     const guess = placed.map(p => letters[p]).join(""), slots = [...sl.children];
     locked = true;
     if (guess === w.word) {
-      slots.forEach(s => s.classList.add("ok")); m.className = "msg good"; m.textContent = "Perfect spelling! 🌟"; say(w.word);
+      slots.forEach(s => s.classList.add("ok")); m.className = "msg good"; m.textContent = "Perfect spelling! 🌟";
       setTimeout(() => spell(i + 1, firstTries.concat(clean)), 1200);
     } else {
       clean = false; slots.forEach(s => s.classList.add("no")); m.className = "msg bad"; m.textContent = "Almost! Try again.";

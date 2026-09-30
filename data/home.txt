@@ -1,0 +1,93 @@
+# Home & Everyday Life|🏠
+kitchen|🍳|1|The room where food is cooked.|Mum cooked in the kitchen.
+bedroom|🛏️|1|A room for sleeping.|My bedroom is tidy.
+bathroom|🛁|1|A room for washing.|Brush your teeth in the bathroom.
+garage|🚗|1|A building for keeping a car.|The car is in the garage.
+attic|🪜|2|A room under the roof.|Old toys were in the attic.
+basement|🕯️|2|A room below ground level.|The basement was cool.
+staircase|🪜|2|A set of steps between floors.|She ran up the staircase.
+chimney|🏠|2|A tube that carries smoke from a fire.|Smoke rose from the chimney.
+fireplace|🔥|2|An opening in a wall where a fire is lit.|We sat by the fireplace.
+window|🪟|1|An opening in a wall filled with glass.|Look out of the window.
+curtain|🎭|1|A piece of cloth hung at a window.|Close the curtain.
+carpet|🟫|1|A thick floor covering.|The carpet felt soft.
+sofa|🛋️|1|A long, soft seat for several people.|We watched TV on the sofa.
+cushion|🛏|1|A soft pillow for a chair.|She hugged a cushion.
+pillow|😴|1|A soft cushion for your head in bed.|Fluff up your pillow.
+blanket|🧣|1|A warm cover for a bed.|Wrap up in a blanket.
+mattress|🛌|2|The soft part of a bed you lie on.|The mattress was firm.
+wardrobe|👗|2|A tall cupboard for clothes.|She hung her coat in the wardrobe.
+drawer|🗄️|1|A box that slides in and out of a desk or chest.|Socks are in the top drawer.
+shelf|📚|1|A flat board for holding things on a wall.|Books line the shelf.
+lamp|🛋|1|A light you can move around.|She switched on the lamp.
+mirror|🪞|1|A glass that shows your reflection.|He checked the mirror.
+clock|🕰️|1|A device that shows the time.|The clock struck ten.
+calendar|📆|1|A chart showing days and months.|Mark the date on the calendar.
+key|🔑|1|A metal tool for opening a lock.|I lost my key.
+lock|🔒|1|A device that keeps a door shut.|He turned the lock.
+doorbell|🔔|1|A bell at the door.|The doorbell rang.
+letterbox|📮|2|A slot or box for letters.|The post fell through the letterbox.
+broom|🧹|1|A brush with a long handle for sweeping.|She swept with a broom.
+bucket|🪣|1|A round container with a handle.|He filled the bucket.
+sponge|🧽|1|A soft absorbent pad for cleaning.|Wipe it with a sponge.
+soap|🧼|1|A substance for washing.|Wash your hands with soap.
+towel|🧻|1|A cloth for drying.|Dry off with a towel.
+toothbrush|🪥|1|A brush for cleaning teeth.|Use your toothbrush twice a day.
+umbrella|☂️|1|A folding canopy that protects you from rain.|Take an umbrella.
+scissors|✂️|1|A tool with two blades for cutting.|Cut the paper with scissors.
+hammer|🔨|1|A tool for hitting nails.|He picked up a hammer.
+screwdriver|🪛|2|A tool for turning screws.|Tighten it with a screwdriver.
+ladder|🪜|1|Steps used for climbing up to high places.|Climb the ladder.
+toolbox|🧰|2|A box for carrying tools.|Dad opened the toolbox.
+refrigerator|🧊|2|A cold cabinet that keeps food fresh.|Milk is in the refrigerator.
+microwave|📟|2|An oven that heats food quickly with waves.|Heat it in the microwave.
+dishwasher|🍽|3|A machine that washes dishes.|Load the dishwasher.
+vacuum|🧹|2|A machine that sucks up dirt.|She used the vacuum.
+laundry|🧺|2|Clothes that need washing.|Put the laundry in the machine.
+furniture|🪑|2|Items like tables and chairs in a room.|We bought new furniture.
+neighbour|🏡|2|A person who lives near you.|Our neighbour waved.
+apartment|🏢|2|A set of rooms on one floor of a building.|They live in an apartment.
+cottage|🏡|2|A small house in the countryside.|The cottage had a thatched roof.
+mansion|🏘|3|A very large house.|The mansion had twenty rooms.
+routine|📅|2|A regular way of doing things.|My morning routine is simple.
+chore|🧹|2|A small job around the house.|Washing up is my chore.
+tidy|✨|1|Neat and in order.|Keep your room tidy.
+clutter|🗑|3|A messy pile of things.|Clear the clutter.
+umbrella|🌂|1|A cover for the rain.|She opened her umbrella.
+wallet|👛|1|A small case for money and cards.|He counted the notes in his wallet.
+purse|👜|2|A small bag for money.|She kept coins in her purse.
+uniform|👔|2|Clothes worn by everyone in a group.|School uniform is navy blue.
+jacket|🧥|1|A short coat.|Zip up your jacket.
+sweater|🧶|1|A warm knitted top.|She wore a sweater.
+sandals|🩴|2|Open shoes with straps.|We wore sandals on the beach.
+boots|🥾|1|Strong shoes covering the ankle.|Wear boots in the mud.
+scarf|🧣|1|A long piece of cloth worn round the neck.|He wrapped a scarf.
+gloves|🧤|1|Hand coverings with fingers.|Wear gloves in winter.
+necklace|📿|2|A chain worn round the neck.|She wore a pearl necklace.
+backpack|🎒|1|A bag worn on the back.|Pack your backpack.
+lunchbox|🥡|1|A container for packed lunch.|Put a sandwich in your lunchbox.
+notebook|📓|1|A book with blank pages for writing.|I wrote in my notebook.
+stapler|📎|3|A device that fastens papers together.|Use the stapler.
+ruler|📏|1|A strip used to measure and draw straight lines.|Measure it with a ruler.
+eraser|🧽|2|A rubber used to remove pencil marks.|Rub it out with an eraser.
+calculator|🧮|2|A device for doing sums.|Use a calculator.
+envelope|✉️|1|A paper cover for a letter.|Seal the envelope.
+parcel|📦|2|Something wrapped for posting.|A parcel arrived.
+delivery|🚚|2|Bringing goods to a place.|The delivery came on Tuesday.
+recycling|♻|2|Processing waste so it can be used again.|Put it in the recycling bin.
+rubbish|🗑️|1|Things thrown away.|Put the rubbish in the bin.
+garden|🌻|1|Land with flowers or vegetables.|Weed the garden.
+lawn|🌱|2|An area of short, mown grass.|Mow the lawn.
+fence|🚧|1|A barrier around a garden.|A fence surrounds the yard.
+shed|🛖|2|A small building for tools.|Tools are in the shed.
+greenhouse|🌿|2|A glass building for growing plants.|Tomatoes grew in the greenhouse.
+hose|🚿|2|A long tube for watering plants.|He sprayed the flowers with a hose.
+scarecrow|🧟‍♂️|3|A figure to scare birds off crops.|A scarecrow stood in the field.
+bonfire|🔥|2|A large outdoor fire.|We lit a bonfire.
+barbecue|🍖|3|An outdoor meal cooked over a fire.|We held a barbecue.
+sleepover|🛌|1|A party where friends stay the night.|She had a sleepover.
+birthday|🎂|1|The day of the year you were born.|Happy birthday!
+celebrate|🎉|2|To do something special for an occasion.|We celebrate on Sunday.
+decorate|🎄|2|To make something look nice.|We decorate the tree.
+invitation|💌|2|A request to attend an event.|I sent an invitation.
+present|🎁|1|A gift.|She opened her present.

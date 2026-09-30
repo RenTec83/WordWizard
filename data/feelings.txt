@@ -1,0 +1,99 @@
+# Feelings & Character|😊
+happy|😀|1|Feeling pleased and cheerful.|I am happy today.
+sad|😢|1|Feeling unhappy.|The sad puppy whimpered.
+angry|😠|1|Feeling very cross.|He was angry about the mess.
+scared|😱|1|Feeling afraid.|I felt scared in the dark.
+excited|🤩|1|Feeling very eager and happy about something.|She was excited about the trip.
+worried|😟|1|Feeling anxious about something.|Mum was worried about the storm.
+shy|🙈|1|Nervous and quiet around people.|The shy boy hid behind his mum.
+kind|🥰|1|Friendly, helpful and caring.|She was kind to the new girl.
+helpful|🤝|1|Willing to help others.|A helpful neighbour carried the bags.
+honest|🤞|1|Truthful and fair.|Be honest and tell the truth.
+loyal|🐕|2|Always faithful and supportive.|A loyal friend never leaves.
+polite|🙏|1|Having good manners.|Say please to be polite.
+rude|😤|1|Having bad manners.|It's rude to interrupt.
+lazy|🦥|1|Not willing to work or be active.|The lazy cat slept all day.
+cheerful|😄|2|Happy and full of good spirits.|The cheerful baker whistled.
+grateful|🙌|2|Thankful.|I'm grateful for your help.
+confident|😎|2|Sure of yourself and your abilities.|She felt confident before the game.
+nervous|😬|1|Slightly afraid or worried.|He felt nervous before the show.
+calm|😌|1|Quiet and peaceful; not upset.|Stay calm during the storm.
+bored|🥱|1|Tired and uninterested.|I'm bored with this show.
+cranky|😖|2|Bad-tempered and easily annoyed.|The cranky baby cried.
+delighted|🥳|2|Extremely pleased.|She was delighted with her present.
+disappointed|😞|2|Sad because something did not happen as hoped.|He was disappointed to lose.
+furious|🤬|2|Extremely angry.|Dad was furious about the broken window.
+horrified|😨|3|Filled with shock and fear.|She was horrified by the spider.
+hopeful|🤞|2|Feeling that something good may happen.|I'm hopeful for a sunny day.
+lonely|🥺|1|Sad because you are alone.|He felt lonely without friends.
+mature|🧑|3|Fully grown, or behaving in a sensible adult way.|She was mature for her age.
+mellow|🌿|3|Soft, gentle and relaxed.|The mellow music soothed us.
+stubborn|🫏|2|Refusing to change your mind.|The stubborn donkey wouldn't budge.
+selfish|🍰|2|Caring only about yourself.|It's selfish to hog the sweets.
+generous|🎁|2|Willing to give and share.|She was generous with her time.
+gentle|🕊️|1|Soft and careful; not rough.|Be gentle with the kitten.
+fair|⚖️|1|Treating everyone equally.|A referee must be fair.
+brave|🦁|1|Willing to face danger.|The brave firefighter saved the cat.
+cowardly|🐔|2|Lacking courage.|He felt cowardly running away.
+reliable|✅|2|Able to be trusted to do the right thing.|A reliable friend always turns up.
+responsible|📋|2|Able to be trusted to do the right thing and take care of things.|A responsible child feeds the pet.
+patient|⌛|2|Able to wait calmly.|Be patient while the cake bakes.
+determined|💪|2|Firmly decided to do something.|She was determined to finish.
+curious|🧐|1|Eager to find things out.|A curious cat sniffed the box.
+creative|🎨|2|Good at thinking of new ideas.|A creative child paints wonderful pictures.
+clever|🧠|1|Quick at learning and understanding.|A clever fox escaped.
+wise|🦉|1|Having good judgement from experience.|The wise owl gave advice.
+foolish|🤡|2|Silly and lacking good sense.|It was foolish to swim in the storm.
+sensible|👍|2|Showing good judgement.|A sensible child wears a helmet.
+thoughtful|💭|2|Considerate of other people; deep in thought.|A thoughtful card cheered her up.
+considerate|💐|3|Careful to avoid hurting others.|A considerate neighbour keeps the noise down.
+compassionate|❤️‍🩹|3|Showing kindness for people who are suffering.|The compassionate nurse held her hand.
+empathy|🫂|3|Understanding how someone else feels.|Empathy helps you comfort a friend.
+sympathy|🤲|3|Feeling sorry for someone's troubles.|I sent a card of sympathy.
+integrity|🏛️|3|Being honest and having strong principles.|A leader needs integrity.
+humility|🙇‍♀️|3|Not thinking you are better than others.|The champion showed humility.
+arrogant|🤴|3|Too proud of yourself.|The arrogant prince ignored the servants.
+ambitious|🎯|3|Strongly wanting to achieve something.|An ambitious student aims for the top.
+courageous|🦸‍♀️|3|Very brave.|The courageous girl rescued the dog.
+optimistic|🌈|3|Hopeful that good things will happen.|An optimistic person sees the bright side.
+pessimistic|🌧|3|Expecting the worst to happen.|A pessimistic person expects rain.
+sarcastic|😏|3|Using words to mock someone in a clever, cutting way.|A sarcastic remark hurt his feelings.
+skeptical|🤨|3|Doubtful; not easily convinced.|He was skeptical about the ghost story.
+gullible|🐑|3|Easily tricked or persuaded.|The gullible boy believed the joke.
+resourceful|🧰|3|Good at finding clever ways to solve problems.|A resourceful camper made a shelter.
+persistent|🚶|3|Refusing to give up.|Persistent effort pays off.
+perseverance|🧗|3|Continuing to try even when it is hard.|Perseverance helped her win.
+stubbornness|🪨|3|Refusing to change your mind.|Stubbornness kept him from apologising.
+jealousy|💚|3|Unhappiness because of another person's success.|Jealousy spoiled the friendship.
+anxiety|😰|3|A feeling of worry or fear.|Exams cause anxiety.
+frustration|😫|3|The feeling of being annoyed when things go wrong.|Frustration built as the puzzle wouldn't fit.
+contentment|😊|3|A peaceful feeling of happiness.|She sat with contentment by the fire.
+loneliness|🌑|3|The sadness of being alone.|Loneliness can be hard.
+excitement|🎉|2|A feeling of great enthusiasm.|The class buzzed with excitement.
+disgust|🤢|2|A strong feeling of dislike.|He wrinkled his nose in disgust.
+amazed|😲|2|Very surprised.|We were amazed by the magic trick.
+astonished|🤯|3|Greatly surprised.|She was astonished at the huge cake.
+bewildered|😵|3|Very confused.|The maze left me bewildered.
+puzzled|🤔|2|Confused; not understanding.|He looked puzzled by the riddle.
+suspicious|🕵️|2|Not trusting something.|The dog was suspicious of the stranger.
+embarrassed|😳|2|Feeling awkward or ashamed.|I felt embarrassed when I tripped.
+ashamed|🫣|2|Feeling guilty about something you did.|She felt ashamed for lying.
+guilty|😔|2|Feeling bad because you did something wrong.|He felt guilty about the broken vase.
+proud|🥹|1|Feeling pleased about what you have done.|The proud dad clapped.
+delight|🥰|2|Great pleasure.|The children squealed with delight.
+cheer|📣|1|To shout with joy or encourage.|Fans cheer for their team.
+laughter|😂|1|The sound of people laughing.|Laughter filled the room.
+tears|💧|1|Drops of water that come from your eyes when you cry.|Tears rolled down her cheeks.
+smile|🙂|1|A happy look on the face.|She greeted us with a smile.
+giggle|🤭|1|A light, silly laugh.|The tickle made him giggle.
+chuckle|😆|2|To laugh quietly.|Grandpa began to chuckle.
+sigh|😮‍💨|2|To let out a long, deep breath.|She let out a sigh of relief.
+sob|😭|2|To cry noisily.|The little boy began to sob.
+gasp|😮|2|To breathe in suddenly because of surprise.|The crowd let out a gasp.
+grin|😁|1|A wide smile.|A big grin spread across his face.
+sneer|😒|3|A scornful, mocking smile.|He gave a sneer at the poor drawing.
+glare|😡|2|To stare angrily.|She gave him an angry glare.
+grumble|🙁|2|To complain in a low, bad-tempered voice.|He began to grumble about chores.
+mutter|🗯️|2|To speak in a low voice.|He began to mutter to himself.
+whisper|🤫|1|To speak very softly.|Whisper in the library.
+shout|📢|1|To call out loudly.|Shout for help.

@@ -1,0 +1,1532 @@
+[
+ {
+  "word": "enormous",
+  "emoji": "🐘",
+  "meaning": "Extremely big; very large indeed.",
+  "example": "The elephant was enormous."
+ },
+ {
+  "word": "tiny",
+  "emoji": "🐜",
+  "meaning": "Very, very small.",
+  "example": "An ant is a tiny insect."
+ },
+ {
+  "word": "fragile",
+  "emoji": "🥚",
+  "meaning": "Easily broken or damaged.",
+  "example": "Be careful, the egg is fragile."
+ },
+ {
+  "word": "ancient",
+  "emoji": "🏺",
+  "meaning": "Very, very old; from a long time ago.",
+  "example": "The museum has an ancient vase."
+ },
+ {
+  "word": "curious",
+  "emoji": "🔍",
+  "meaning": "Wanting to learn or know about something.",
+  "example": "The curious kitten explored the box."
+ },
+ {
+  "word": "brave",
+  "emoji": "🦁",
+  "meaning": "Ready to face danger or pain without fear.",
+  "example": "The brave lion protected his family."
+ },
+ {
+  "word": "delicious",
+  "emoji": "🍕",
+  "meaning": "Tasting or smelling very good.",
+  "example": "The pizza was delicious."
+ },
+ {
+  "word": "gigantic",
+  "emoji": "🦕",
+  "meaning": "Huge; much bigger than normal.",
+  "example": "Dinosaurs were gigantic animals."
+ },
+ {
+  "word": "exhausted",
+  "emoji": "😴",
+  "meaning": "Extremely tired.",
+  "example": "He was exhausted after the long race."
+ },
+ {
+  "word": "hilarious",
+  "emoji": "😂",
+  "meaning": "Very funny; makes you laugh a lot.",
+  "example": "The clown's joke was hilarious."
+ },
+ {
+  "word": "generous",
+  "emoji": "🎁",
+  "meaning": "Happy to give and share with others.",
+  "example": "She was generous and shared her toys."
+ },
+ {
+  "word": "swift",
+  "emoji": "🐆",
+  "meaning": "Moving very fast; quick.",
+  "example": "The cheetah is a swift runner."
+ },
+ {
+  "word": "silent",
+  "emoji": "🤫",
+  "meaning": "Making no sound at all; completely quiet.",
+  "example": "The library was silent."
+ },
+ {
+  "word": "fierce",
+  "emoji": "🐯",
+  "meaning": "Angry, strong and a little scary.",
+  "example": "The fierce tiger roared."
+ },
+ {
+  "word": "gentle",
+  "emoji": "🐑",
+  "meaning": "Soft, kind and careful; not rough.",
+  "example": "Be gentle with the baby lamb."
+ },
+ {
+  "word": "glisten",
+  "emoji": "✨",
+  "meaning": "To shine with a soft, sparkling light.",
+  "example": "The frost began to glisten in the sun."
+ },
+ {
+  "word": "shiver",
+  "emoji": "🥶",
+  "meaning": "To shake a little because you are cold or scared.",
+  "example": "I shiver when the wind is icy."
+ },
+ {
+  "word": "famished",
+  "emoji": "🍽️",
+  "meaning": "Very, very hungry.",
+  "example": "After hiking all day, we were famished."
+ },
+ {
+  "word": "peculiar",
+  "emoji": "🦄",
+  "meaning": "Strange or unusual; a bit odd.",
+  "example": "A blue banana would be peculiar."
+ },
+ {
+  "word": "explore",
+  "emoji": "🧭",
+  "meaning": "To travel around a place to find out about it.",
+  "example": "Let's explore the forest."
+ },
+ {
+  "word": "journey",
+  "emoji": "🚂",
+  "meaning": "A long trip from one place to another.",
+  "example": "Our train journey took two days."
+ },
+ {
+  "word": "tremble",
+  "emoji": "😨",
+  "meaning": "To shake because you are afraid or excited.",
+  "example": "His hands began to tremble."
+ },
+ {
+  "word": "colossal",
+  "emoji": "🗻",
+  "meaning": "Enormous; so big it is hard to imagine.",
+  "example": "They climbed a colossal mountain."
+ },
+ {
+  "word": "fluent",
+  "emoji": "🗣️",
+  "meaning": "Able to speak a language smoothly and easily.",
+  "example": "She is fluent in French."
+ },
+ {
+  "word": "scatter",
+  "emoji": "🌾",
+  "meaning": "To throw or spread things in many directions.",
+  "example": "Farmers scatter seeds on the field."
+ },
+ {
+  "word": "dazzling",
+  "emoji": "🌟",
+  "meaning": "So bright or beautiful that it amazes you.",
+  "example": "The fireworks were dazzling."
+ },
+ {
+  "word": "ferocious",
+  "emoji": "🦈",
+  "meaning": "Very fierce and violent.",
+  "example": "A ferocious shark swam by."
+ },
+ {
+  "word": "nocturnal",
+  "emoji": "🦉",
+  "meaning": "Awake and active at night rather than during the day.",
+  "example": "Owls are nocturnal birds."
+ },
+ {
+  "word": "habitat",
+  "emoji": "🌳",
+  "meaning": "The natural home of an animal or plant.",
+  "example": "A forest is the habitat of many animals."
+ },
+ {
+  "word": "predator",
+  "emoji": "🐺",
+  "meaning": "An animal that hunts and eats other animals.",
+  "example": "The wolf is a predator."
+ },
+ {
+  "word": "camouflage",
+  "emoji": "🦎",
+  "meaning": "Colours or patterns that help something blend in and hide.",
+  "example": "The lizard used camouflage to hide on the leaf."
+ },
+ {
+  "word": "migrate",
+  "emoji": "🦆",
+  "meaning": "To travel to another place at a certain time of year.",
+  "example": "Ducks migrate south for winter."
+ },
+ {
+  "word": "hibernate",
+  "emoji": "🐻",
+  "meaning": "To sleep through the winter.",
+  "example": "Bears hibernate in caves."
+ },
+ {
+  "word": "telescope",
+  "emoji": "🔭",
+  "meaning": "A tool that makes faraway things, like stars, look closer.",
+  "example": "We saw the moon through a telescope."
+ },
+ {
+  "word": "astronaut",
+  "emoji": "👨‍🚀",
+  "meaning": "A person trained to travel in space.",
+  "example": "The astronaut floated in the space station."
+ },
+ {
+  "word": "volcano",
+  "emoji": "🌋",
+  "meaning": "A mountain that can erupt with hot melted rock.",
+  "example": "Smoke rose from the volcano."
+ },
+ {
+  "word": "treasure",
+  "emoji": "💎",
+  "meaning": "A collection of valuable things like gold and jewels.",
+  "example": "Pirates buried their treasure."
+ },
+ {
+  "word": "adventure",
+  "emoji": "🗺️",
+  "meaning": "An exciting or unusual experience.",
+  "example": "We went on an adventure in the jungle."
+ },
+ {
+  "word": "marvellous",
+  "emoji": "🎆",
+  "meaning": "Wonderful; causing great delight.",
+  "example": "We had a marvellous time at the fair."
+ },
+ {
+  "word": "cautious",
+  "emoji": "🚦",
+  "meaning": "Careful to avoid danger or mistakes.",
+  "example": "Be cautious when crossing the road."
+ },
+ {
+  "word": "mystery",
+  "emoji": "🕵️",
+  "meaning": "Something strange that is hard to explain or understand.",
+  "example": "The missing cookie was a mystery."
+ },
+ {
+  "word": "harvest",
+  "emoji": "🌽",
+  "meaning": "To gather crops when they are ready.",
+  "example": "Farmers harvest corn in autumn."
+ },
+ {
+  "word": "blizzard",
+  "emoji": "🌨️",
+  "meaning": "A heavy snowstorm with strong winds.",
+  "example": "School closed because of the blizzard."
+ },
+ {
+  "word": "thirsty",
+  "emoji": "🥤",
+  "meaning": "Needing or wanting a drink.",
+  "example": "I was thirsty after football."
+ },
+ {
+  "word": "puzzled",
+  "emoji": "🧩",
+  "meaning": "Confused because you cannot understand something.",
+  "example": "She looked puzzled by the riddle."
+ },
+ {
+  "word": "vanish",
+  "emoji": "🎩",
+  "meaning": "To disappear suddenly.",
+  "example": "The magician made the rabbit vanish."
+ },
+ {
+  "word": "bilingual",
+  "emoji": "🌍",
+  "meaning": "Able to speak two languages.",
+  "example": "My cousin is bilingual."
+ },
+ {
+  "word": "gratitude",
+  "emoji": "🙏",
+  "meaning": "The feeling of being thankful.",
+  "example": "He showed gratitude by saying thank you."
+ },
+ {
+  "word": "compassion",
+  "emoji": "💗",
+  "meaning": "Kindness and sympathy towards someone who is suffering.",
+  "example": "She showed compassion to the hurt puppy."
+ },
+ {
+  "word": "determined",
+  "emoji": "🏆",
+  "meaning": "Having made a firm decision not to give up.",
+  "example": "He was determined to win the race."
+ },
+ {
+  "word": "invisible",
+  "emoji": "👻",
+  "meaning": "Impossible to see.",
+  "example": "The ghost was invisible."
+ },
+ {
+  "word": "transparent",
+  "emoji": "🪟",
+  "meaning": "Clear enough to see through.",
+  "example": "Glass is transparent."
+ },
+ {
+  "word": "balance",
+  "emoji": "⚖️",
+  "meaning": "To keep steady without falling over.",
+  "example": "She can balance on one foot."
+ },
+ {
+  "word": "dangerous",
+  "emoji": "☠️",
+  "meaning": "Likely to cause harm or injury.",
+  "example": "The cliff edge is dangerous."
+ },
+ {
+  "word": "furious",
+  "emoji": "😡",
+  "meaning": "Extremely angry.",
+  "example": "Dad was furious when the window broke."
+ },
+ {
+  "word": "ecstatic",
+  "emoji": "🥳",
+  "meaning": "Overjoyed; extremely happy.",
+  "example": "She was ecstatic about her birthday party."
+ },
+ {
+  "word": "lonely",
+  "emoji": "🏝️",
+  "meaning": "Sad because you are on your own.",
+  "example": "The castaway felt lonely on the island."
+ },
+ {
+  "word": "obey",
+  "emoji": "🚸",
+  "meaning": "To do what you are told to do.",
+  "example": "Cars must obey the traffic lights."
+ },
+ {
+  "word": "weary",
+  "emoji": "🥱",
+  "meaning": "Very tired, especially after effort.",
+  "example": "The weary traveller sat down."
+ },
+ {
+  "word": "rescue",
+  "emoji": "🚒",
+  "meaning": "To save someone from danger.",
+  "example": "Firefighters rescue people from fires."
+ },
+ {
+  "word": "absorb",
+  "emoji": "🧽",
+  "meaning": "To soak up a liquid.",
+  "example": "A sponge can absorb water."
+ },
+ {
+  "word": "ignite",
+  "emoji": "🔥",
+  "meaning": "To catch fire or make something burn.",
+  "example": "A spark can ignite dry grass."
+ },
+ {
+  "word": "giggle",
+  "emoji": "🤭",
+  "meaning": "To laugh in a silly, high way.",
+  "example": "The joke made me giggle."
+ },
+ {
+  "word": "abundant",
+  "emoji": "🍇",
+  "meaning": "Existing in large amounts; plentiful.",
+  "example": "The orchard had an abundant supply of grapes."
+ },
+ {
+  "word": "ambitious",
+  "emoji": "🎯",
+  "meaning": "Having a strong desire to achieve something great.",
+  "example": "She is ambitious and wants to win the national spelling bee."
+ },
+ {
+  "word": "anxious",
+  "emoji": "😰",
+  "meaning": "Worried or nervous about something that might happen.",
+  "example": "He felt anxious before the big test."
+ },
+ {
+  "word": "arctic",
+  "emoji": "❄️",
+  "meaning": "Extremely cold, like the far north of the Earth.",
+  "example": "The arctic wind made our faces freeze."
+ },
+ {
+  "word": "bewildered",
+  "emoji": "😵‍💫",
+  "meaning": "Completely confused and unsure what is happening.",
+  "example": "The maze left him bewildered."
+ },
+ {
+  "word": "boast",
+  "emoji": "📣",
+  "meaning": "To brag; to talk too proudly about what you have or can do.",
+  "example": "He liked to boast about his high score."
+ },
+ {
+  "word": "brilliant",
+  "emoji": "💡",
+  "meaning": "Very clever or very bright.",
+  "example": "That was a brilliant idea!"
+ },
+ {
+  "word": "bulky",
+  "emoji": "📦",
+  "meaning": "Large and awkward to carry or move.",
+  "example": "The bulky box would not fit through the door."
+ },
+ {
+  "word": "capture",
+  "emoji": "📸",
+  "meaning": "To take hold of something or record it, like in a photo.",
+  "example": "I wanted to capture the sunset in a photo."
+ },
+ {
+  "word": "chaos",
+  "emoji": "🤪",
+  "meaning": "Total confusion and disorder.",
+  "example": "There was chaos in the classroom when the lights went out."
+ },
+ {
+  "word": "clumsy",
+  "emoji": "🍌",
+  "meaning": "Awkward and likely to trip or drop things.",
+  "example": "The clumsy waiter slipped on a banana peel."
+ },
+ {
+  "word": "commotion",
+  "emoji": "🚨",
+  "meaning": "A noisy, confused disturbance.",
+  "example": "The fire alarm caused a commotion in the hallway."
+ },
+ {
+  "word": "conquer",
+  "emoji": "🚩",
+  "meaning": "To defeat or overcome something difficult.",
+  "example": "They planted a flag to conquer the peak."
+ },
+ {
+  "word": "courage",
+  "emoji": "🦸",
+  "meaning": "The strength to do something even when you are afraid.",
+  "example": "It took courage to speak on stage."
+ },
+ {
+  "word": "crafty",
+  "emoji": "🦊",
+  "meaning": "Clever at getting what you want, often by tricks.",
+  "example": "The crafty fox found a way into the henhouse."
+ },
+ {
+  "word": "creature",
+  "emoji": "🐙",
+  "meaning": "Any living animal, real or imaginary.",
+  "example": "A strange creature lived at the bottom of the sea."
+ },
+ {
+  "word": "dawn",
+  "emoji": "🌅",
+  "meaning": "The time in the morning when the sun first appears.",
+  "example": "We woke at dawn to go fishing."
+ },
+ {
+  "word": "deceive",
+  "emoji": "🃏",
+  "meaning": "To trick someone into believing something that is not true.",
+  "example": "The magician tried to deceive the audience."
+ },
+ {
+  "word": "defend",
+  "emoji": "🛡️",
+  "meaning": "To protect something from attack or harm.",
+  "example": "The knights defend the castle."
+ },
+ {
+  "word": "desert",
+  "emoji": "🏜️",
+  "meaning": "A very dry place with little rain, often sandy.",
+  "example": "Camels can travel far across the desert."
+ },
+ {
+  "word": "devour",
+  "emoji": "🍔",
+  "meaning": "To eat something quickly and hungrily.",
+  "example": "The hungry boy tried to devour his burger."
+ },
+ {
+  "word": "disguise",
+  "emoji": "🥸",
+  "meaning": "To change how you look so people will not recognise you.",
+  "example": "He wore a fake moustache as a disguise."
+ },
+ {
+  "word": "dizzy",
+  "emoji": "💫",
+  "meaning": "Feeling as though everything is spinning around you.",
+  "example": "I felt dizzy after the spinning ride."
+ },
+ {
+  "word": "doubt",
+  "emoji": "🤔",
+  "meaning": "A feeling of not being sure about something.",
+  "example": "I have doubt that it will stop raining."
+ },
+ {
+  "word": "drowsy",
+  "emoji": "🛌",
+  "meaning": "Sleepy and hard to keep awake.",
+  "example": "The warm room made me drowsy."
+ },
+ {
+  "word": "eager",
+  "emoji": "🐕",
+  "meaning": "Very keen and excited to do something.",
+  "example": "The puppy was eager to go for a walk."
+ },
+ {
+  "word": "echo",
+  "emoji": "🔁",
+  "meaning": "A sound that bounces back so you hear it again.",
+  "example": "Shout in the canyon and you will hear an echo."
+ },
+ {
+  "word": "elegant",
+  "emoji": "🦢",
+  "meaning": "Graceful, stylish and beautiful in a simple way.",
+  "example": "The swan glided in an elegant way."
+ },
+ {
+  "word": "embarrassed",
+  "emoji": "😳",
+  "meaning": "Feeling awkward and shy because of something that happened.",
+  "example": "She was embarrassed when she tripped in front of everyone."
+ },
+ {
+  "word": "emerge",
+  "emoji": "🌱",
+  "meaning": "To come out or appear from somewhere hidden.",
+  "example": "Tiny shoots emerge from the soil in spring."
+ },
+ {
+  "word": "endure",
+  "emoji": "🏋️",
+  "meaning": "To keep going through something hard or painful.",
+  "example": "Athletes endure tough training."
+ },
+ {
+  "word": "envy",
+  "emoji": "💚",
+  "meaning": "Wanting something that another person has.",
+  "example": "He felt envy when he saw her new bike."
+ },
+ {
+  "word": "essential",
+  "emoji": "🔑",
+  "meaning": "Absolutely necessary; you cannot do without it.",
+  "example": "Water is essential for life."
+ },
+ {
+  "word": "evaporate",
+  "emoji": "♨️",
+  "meaning": "To change from a liquid into a gas, like steam.",
+  "example": "The puddle will evaporate in the sun."
+ },
+ {
+  "word": "exaggerate",
+  "emoji": "🎣",
+  "meaning": "To make something sound bigger or better than it really is.",
+  "example": "He liked to exaggerate the size of the fish he caught."
+ },
+ {
+  "word": "exhale",
+  "emoji": "😮‍💨",
+  "meaning": "To breathe out.",
+  "example": "Inhale deeply, then slowly exhale."
+ },
+ {
+  "word": "fabulous",
+  "emoji": "🦚",
+  "meaning": "Wonderful; extremely good.",
+  "example": "The peacock had fabulous feathers."
+ },
+ {
+  "word": "fearless",
+  "emoji": "🤿",
+  "meaning": "Not afraid of anything.",
+  "example": "The fearless diver jumped in."
+ },
+ {
+  "word": "flexible",
+  "emoji": "🤸",
+  "meaning": "Able to bend easily without breaking.",
+  "example": "Gymnasts are very flexible."
+ },
+ {
+  "word": "flourish",
+  "emoji": "🌻",
+  "meaning": "To grow well and be healthy and successful.",
+  "example": "Sunflowers flourish in warm sunshine."
+ },
+ {
+  "word": "forecast",
+  "emoji": "⛅",
+  "meaning": "A prediction of what will happen, especially the weather.",
+  "example": "The forecast says it will be cloudy."
+ },
+ {
+  "word": "fortunate",
+  "emoji": "🍀",
+  "meaning": "Lucky; having good things happen by chance.",
+  "example": "We were fortunate to find a four-leaf clover."
+ },
+ {
+  "word": "frantic",
+  "emoji": "🤯",
+  "meaning": "Wild with worry or excitement; done in a great hurry.",
+  "example": "He made a frantic search for his lost keys."
+ },
+ {
+  "word": "frown",
+  "emoji": "☹️",
+  "meaning": "To pull your eyebrows together because you are unhappy or thinking hard.",
+  "example": "She began to frown when she read the bad news."
+ },
+ {
+  "word": "galaxy",
+  "emoji": "🌌",
+  "meaning": "A huge group of stars, gas and dust in space.",
+  "example": "Our Sun is in the Milky Way galaxy."
+ },
+ {
+  "word": "gleaming",
+  "emoji": "🥇",
+  "meaning": "Shining brightly, especially because it is polished.",
+  "example": "The gold medal was gleaming."
+ },
+ {
+  "word": "glimpse",
+  "emoji": "👀",
+  "meaning": "A quick, short look at something.",
+  "example": "I caught a glimpse of a deer in the trees."
+ },
+ {
+  "word": "gloomy",
+  "emoji": "☁️",
+  "meaning": "Dark and sad or dull and cloudy.",
+  "example": "It was a gloomy, grey afternoon."
+ },
+ {
+  "word": "graceful",
+  "emoji": "🩰",
+  "meaning": "Moving in a smooth, beautiful way.",
+  "example": "The ballerina was graceful."
+ },
+ {
+  "word": "grumpy",
+  "emoji": "😾",
+  "meaning": "Bad-tempered and easily annoyed.",
+  "example": "My cat is grumpy in the morning."
+ },
+ {
+  "word": "guardian",
+  "emoji": "🐕‍🦺",
+  "meaning": "Someone or something that protects.",
+  "example": "The dog was the guardian of the farm."
+ },
+ {
+  "word": "hesitate",
+  "emoji": "⏳",
+  "meaning": "To pause before doing something because you are unsure.",
+  "example": "Do not hesitate to ask for help."
+ },
+ {
+  "word": "humble",
+  "emoji": "🙇",
+  "meaning": "Not proud; not thinking you are better than others.",
+  "example": "The champion stayed humble."
+ },
+ {
+  "word": "hurricane",
+  "emoji": "🌀",
+  "meaning": "A huge storm with very strong winds.",
+  "example": "The hurricane tore roofs off houses."
+ },
+ {
+  "word": "imagine",
+  "emoji": "💭",
+  "meaning": "To picture something in your mind.",
+  "example": "Imagine a house made of candy."
+ },
+ {
+  "word": "impatient",
+  "emoji": "⏰",
+  "meaning": "Not willing to wait; easily annoyed by delays.",
+  "example": "He was impatient while waiting in line."
+ },
+ {
+  "word": "inspire",
+  "emoji": "🎨",
+  "meaning": "To make someone want to do or create something good.",
+  "example": "Great paintings inspire young artists."
+ },
+ {
+  "word": "invent",
+  "emoji": "⚙️",
+  "meaning": "To create something completely new for the first time.",
+  "example": "She wants to invent a flying bicycle."
+ },
+ {
+  "word": "jealous",
+  "emoji": "😒",
+  "meaning": "Unhappy because someone else has something you want.",
+  "example": "He was jealous of his friend's new game."
+ },
+ {
+  "word": "jungle",
+  "emoji": "🐒",
+  "meaning": "A thick, hot forest full of tall plants and animals.",
+  "example": "Monkeys swing through the jungle."
+ },
+ {
+  "word": "knowledge",
+  "emoji": "📚",
+  "meaning": "What you know from learning and experience.",
+  "example": "Books are full of knowledge."
+ },
+ {
+  "word": "legend",
+  "emoji": "🐉",
+  "meaning": "A very old story about heroes or magical things.",
+  "example": "The legend told of a dragon guarding gold."
+ },
+ {
+  "word": "lively",
+  "emoji": "💃",
+  "meaning": "Full of energy and fun.",
+  "example": "The lively party lasted all night."
+ },
+ {
+  "word": "luminous",
+  "emoji": "🔦",
+  "meaning": "Giving off light; glowing.",
+  "example": "The luminous torch lit the cave."
+ },
+ {
+  "word": "magnificent",
+  "emoji": "🏰",
+  "meaning": "Grand and impressive; wonderfully beautiful.",
+  "example": "The castle was magnificent."
+ },
+ {
+  "word": "massive",
+  "emoji": "🐋",
+  "meaning": "Extremely large and heavy.",
+  "example": "A blue whale is a massive animal."
+ },
+ {
+  "word": "melancholy",
+  "emoji": "🌧️",
+  "meaning": "A deep, quiet sadness.",
+  "example": "Rain made her feel melancholy."
+ },
+ {
+  "word": "mischievous",
+  "emoji": "😈",
+  "meaning": "Playful in a naughty, troublemaking way.",
+  "example": "The mischievous twins hid his shoes."
+ },
+ {
+  "word": "mumble",
+  "emoji": "😶",
+  "meaning": "To speak quietly and unclearly.",
+  "example": "Don't mumble; speak up clearly!"
+ },
+ {
+  "word": "navigate",
+  "emoji": "📍",
+  "meaning": "To find the way from one place to another.",
+  "example": "We used a map to navigate through the city."
+ },
+ {
+  "word": "nervous",
+  "emoji": "😬",
+  "meaning": "Worried and a bit afraid about what may happen.",
+  "example": "I felt nervous before my speech."
+ },
+ {
+  "word": "observe",
+  "emoji": "👁️",
+  "meaning": "To watch carefully and notice details.",
+  "example": "Scientists observe animals in the wild."
+ },
+ {
+  "word": "ocean",
+  "emoji": "🌊",
+  "meaning": "A vast body of salt water covering much of the Earth.",
+  "example": "Whales swim in the ocean."
+ },
+ {
+  "word": "opportunity",
+  "emoji": "🪜",
+  "meaning": "A chance to do something good.",
+  "example": "The trip is a great opportunity to learn."
+ },
+ {
+  "word": "outstanding",
+  "emoji": "🏅",
+  "meaning": "Excellent; much better than most.",
+  "example": "She got an outstanding score."
+ },
+ {
+  "word": "parachute",
+  "emoji": "🪂",
+  "meaning": "A large cloth that lets a person fall slowly from the sky.",
+  "example": "The skydiver opened his parachute."
+ },
+ {
+  "word": "patient",
+  "emoji": "🐢",
+  "meaning": "Able to wait calmly without getting upset.",
+  "example": "The turtle was patient and steady."
+ },
+ {
+  "word": "peaceful",
+  "emoji": "🕊️",
+  "meaning": "Calm and quiet, free from trouble.",
+  "example": "The dove flew over the peaceful meadow."
+ },
+ {
+  "word": "persuade",
+  "emoji": "🗨️",
+  "meaning": "To convince someone to do or believe something.",
+  "example": "She tried to persuade Dad to buy a puppy."
+ },
+ {
+  "word": "pollution",
+  "emoji": "🏭",
+  "meaning": "Harmful substances that dirty the air, water or land.",
+  "example": "Factory smoke causes air pollution."
+ },
+ {
+  "word": "precious",
+  "emoji": "💍",
+  "meaning": "Very valuable or very special to you.",
+  "example": "The ring was precious to her."
+ },
+ {
+  "word": "prepare",
+  "emoji": "🎒",
+  "meaning": "To get ready for something.",
+  "example": "Prepare your bag the night before school."
+ },
+ {
+  "word": "protect",
+  "emoji": "☂️",
+  "meaning": "To keep safe from harm.",
+  "example": "An umbrella can protect you from the rain."
+ },
+ {
+  "word": "proud",
+  "emoji": "🎖️",
+  "meaning": "Feeling pleased about something good you or others have done.",
+  "example": "Mum was proud of my medal."
+ },
+ {
+  "word": "quarrel",
+  "emoji": "🥊",
+  "meaning": "An angry argument.",
+  "example": "The brothers had a quarrel over the toy."
+ },
+ {
+  "word": "radiant",
+  "emoji": "🔆",
+  "meaning": "Shining brightly; glowing with happiness.",
+  "example": "She had a radiant smile."
+ },
+ {
+  "word": "rapid",
+  "emoji": "⚡",
+  "meaning": "Very quick; happening fast.",
+  "example": "The river current was rapid."
+ },
+ {
+  "word": "reflect",
+  "emoji": "🪞",
+  "meaning": "To throw back light or show an image, like a mirror.",
+  "example": "A mirror will reflect your face."
+ },
+ {
+  "word": "reliable",
+  "emoji": "⚓",
+  "meaning": "Something or someone you can always depend on.",
+  "example": "An anchor is a reliable way to stop a boat."
+ },
+ {
+  "word": "remarkable",
+  "emoji": "🦒",
+  "meaning": "Unusual and worth noticing.",
+  "example": "A giraffe's long neck is remarkable."
+ },
+ {
+  "word": "reptile",
+  "emoji": "🐍",
+  "meaning": "A cold-blooded animal with scaly skin, like a snake.",
+  "example": "A snake is a reptile."
+ },
+ {
+  "word": "resist",
+  "emoji": "🚧",
+  "meaning": "To fight against or refuse to give in.",
+  "example": "Try to resist the urge to eat all the sweets."
+ },
+ {
+  "word": "restore",
+  "emoji": "🛠️",
+  "meaning": "To fix something so it is like new again.",
+  "example": "They will restore the old car."
+ },
+ {
+  "word": "ripple",
+  "emoji": "💧",
+  "meaning": "A small wave that spreads across water.",
+  "example": "A stone made a ripple in the pond."
+ },
+ {
+  "word": "roam",
+  "emoji": "🐎",
+  "meaning": "To wander freely with no fixed direction.",
+  "example": "Wild horses roam the plains."
+ },
+ {
+  "word": "rotate",
+  "emoji": "🔄",
+  "meaning": "To turn around a centre point.",
+  "example": "The Earth will rotate once a day."
+ },
+ {
+  "word": "rugged",
+  "emoji": "⛰️",
+  "meaning": "Rough, rocky and uneven.",
+  "example": "They hiked over rugged mountain paths."
+ },
+ {
+  "word": "sarcasm",
+  "emoji": "🙄",
+  "meaning": "Saying the opposite of what you mean to make fun of something.",
+  "example": "\"Great job,\" he said with sarcasm after I dropped the tray."
+ },
+ {
+  "word": "scarce",
+  "emoji": "🪫",
+  "meaning": "Not enough of something; hard to find.",
+  "example": "Food was scarce in winter."
+ },
+ {
+  "word": "scorching",
+  "emoji": "🥵",
+  "meaning": "Extremely hot.",
+  "example": "The desert was scorching at noon."
+ },
+ {
+  "word": "scowl",
+  "emoji": "😠",
+  "meaning": "To make an angry, unhappy face.",
+  "example": "He gave a scowl when told to tidy up."
+ },
+ {
+  "word": "sculpture",
+  "emoji": "🗿",
+  "meaning": "A figure carved or shaped from stone, clay or metal.",
+  "example": "The artist carved a stone sculpture."
+ },
+ {
+  "word": "seldom",
+  "emoji": "🌑",
+  "meaning": "Not often; rarely.",
+  "example": "A total eclipse is seldom seen."
+ },
+ {
+  "word": "serene",
+  "emoji": "🧘",
+  "meaning": "Calm, peaceful and untroubled.",
+  "example": "The lake was serene at dawn."
+ },
+ {
+  "word": "shrink",
+  "emoji": "🤏",
+  "meaning": "To become smaller.",
+  "example": "My jumper will shrink in a hot wash."
+ },
+ {
+  "word": "skilful",
+  "emoji": "🎻",
+  "meaning": "Very good at doing something because of practice.",
+  "example": "The violinist was skilful."
+ },
+ {
+  "word": "slender",
+  "emoji": "🦩",
+  "meaning": "Slim and graceful.",
+  "example": "A flamingo has slender legs."
+ },
+ {
+  "word": "sluggish",
+  "emoji": "🐌",
+  "meaning": "Slow-moving and lacking energy.",
+  "example": "The snail is sluggish."
+ },
+ {
+  "word": "soar",
+  "emoji": "🦅",
+  "meaning": "To fly high up in the sky.",
+  "example": "An eagle can soar above the mountains."
+ },
+ {
+  "word": "solitary",
+  "emoji": "🧍",
+  "meaning": "Alone; done or living without other people.",
+  "example": "The solitary hiker walked all day."
+ },
+ {
+  "word": "souvenir",
+  "emoji": "🧳",
+  "meaning": "Something you keep to remember a place or trip.",
+  "example": "I bought a souvenir from the beach."
+ },
+ {
+  "word": "spectacular",
+  "emoji": "🎇",
+  "meaning": "Amazing to look at; very impressive.",
+  "example": "The fireworks were spectacular."
+ },
+ {
+  "word": "sprint",
+  "emoji": "🏃",
+  "meaning": "To run at top speed for a short distance.",
+  "example": "She began to sprint towards the finish line."
+ },
+ {
+  "word": "stubborn",
+  "emoji": "🐐",
+  "meaning": "Refusing to change your mind, even when you should.",
+  "example": "The stubborn goat would not move."
+ },
+ {
+  "word": "stumble",
+  "emoji": "🦶",
+  "meaning": "To trip or almost fall while walking.",
+  "example": "I stumble on the uneven path."
+ },
+ {
+  "word": "sturdy",
+  "emoji": "🧱",
+  "meaning": "Strong and firmly built.",
+  "example": "The brick wall is sturdy."
+ },
+ {
+  "word": "surrender",
+  "emoji": "🏳️",
+  "meaning": "To give up and accept defeat.",
+  "example": "The army had to surrender."
+ },
+ {
+  "word": "survive",
+  "emoji": "⛺",
+  "meaning": "To stay alive in a difficult situation.",
+  "example": "Campers must know how to survive in the woods."
+ },
+ {
+  "word": "suspect",
+  "emoji": "🧐",
+  "meaning": "To think that something is true without being sure.",
+  "example": "I suspect the cat ate the fish."
+ },
+ {
+  "word": "tangle",
+  "emoji": "🧶",
+  "meaning": "A messy twist of things like string or hair.",
+  "example": "The kitten made a tangle of the wool."
+ },
+ {
+  "word": "thrilled",
+  "emoji": "🎢",
+  "meaning": "Extremely excited and happy.",
+  "example": "We were thrilled to ride the rollercoaster."
+ },
+ {
+  "word": "timid",
+  "emoji": "🐭",
+  "meaning": "Shy and easily frightened.",
+  "example": "The timid mouse hid in its hole."
+ },
+ {
+  "word": "tradition",
+  "emoji": "🎎",
+  "meaning": "A custom passed down through many years.",
+  "example": "Lighting lamps is a family tradition."
+ },
+ {
+  "word": "tremendous",
+  "emoji": "💥",
+  "meaning": "Very great in size, amount or power.",
+  "example": "There was a tremendous explosion of colour."
+ },
+ {
+  "word": "triumph",
+  "emoji": "🏁",
+  "meaning": "A great success or victory.",
+  "example": "Winning the race was a triumph."
+ },
+ {
+  "word": "unique",
+  "emoji": "💠",
+  "meaning": "Being the only one of its kind.",
+  "example": "Every snowflake is unique."
+ },
+ {
+  "word": "upset",
+  "emoji": "😢",
+  "meaning": "Unhappy or worried about something.",
+  "example": "She was upset when her ice cream fell."
+ },
+ {
+  "word": "valuable",
+  "emoji": "🏦",
+  "meaning": "Worth a lot of money or very useful.",
+  "example": "The bank keeps valuable things safe."
+ },
+ {
+  "word": "vast",
+  "emoji": "🏞️",
+  "meaning": "Extremely large in area.",
+  "example": "A vast valley stretched before us."
+ },
+ {
+  "word": "victory",
+  "emoji": "🥂",
+  "meaning": "Winning a battle, game or contest.",
+  "example": "The team celebrated their victory."
+ },
+ {
+  "word": "vivid",
+  "emoji": "🖍️",
+  "meaning": "Very bright and clear.",
+  "example": "The picture was filled with vivid colours."
+ },
+ {
+  "word": "voyage",
+  "emoji": "⛵",
+  "meaning": "A long journey, especially by sea.",
+  "example": "The voyage across the ocean took weeks."
+ },
+ {
+  "word": "wander",
+  "emoji": "🚶",
+  "meaning": "To walk around without a plan.",
+  "example": "We like to wander through the park."
+ },
+ {
+  "word": "wilderness",
+  "emoji": "🏕️",
+  "meaning": "A wild place where few people live.",
+  "example": "They camped in the wilderness."
+ },
+ {
+  "word": "wisdom",
+  "emoji": "🧓",
+  "meaning": "The ability to make good decisions based on experience.",
+  "example": "My grandfather is full of wisdom."
+ },
+ {
+  "word": "wobble",
+  "emoji": "🥴",
+  "meaning": "To move unsteadily from side to side.",
+  "example": "The jelly began to wobble."
+ },
+ {
+  "word": "wreck",
+  "emoji": "🏚️",
+  "meaning": "To destroy or badly damage something.",
+  "example": "The storm could wreck the old cabin."
+ },
+ {
+  "word": "yearn",
+  "emoji": "🌠",
+  "meaning": "To want something very much.",
+  "example": "I yearn to see the stars up close."
+ },
+ {
+  "word": "zeal",
+  "emoji": "🔋",
+  "meaning": "Great energy and enthusiasm.",
+  "example": "He worked with zeal."
+ },
+ {
+  "word": "photosynthesis",
+  "emoji": "🌿",
+  "meaning": "How plants use sunlight to make their own food.",
+  "example": "Leaves use photosynthesis to make food."
+ },
+ {
+  "word": "gravity",
+  "emoji": "🍎",
+  "meaning": "The force that pulls things towards the Earth.",
+  "example": "Gravity made the apple fall."
+ },
+ {
+  "word": "orbit",
+  "emoji": "🪐",
+  "meaning": "The path of one object circling another in space.",
+  "example": "Planets orbit the Sun."
+ },
+ {
+  "word": "fossil",
+  "emoji": "🐚",
+  "meaning": "The preserved remains of a very old plant or animal.",
+  "example": "We found a fossil of a shell."
+ },
+ {
+  "word": "ecosystem",
+  "emoji": "🪸",
+  "meaning": "All the living things in a place and how they depend on each other.",
+  "example": "A coral reef is a rich ecosystem."
+ },
+ {
+  "word": "oxygen",
+  "emoji": "🫁",
+  "meaning": "The gas in the air that we need to breathe.",
+  "example": "Our lungs take in oxygen."
+ },
+ {
+  "word": "pollinate",
+  "emoji": "🐝",
+  "meaning": "To carry pollen so plants can make seeds.",
+  "example": "Bees pollinate flowers."
+ },
+ {
+  "word": "mammal",
+  "emoji": "🐬",
+  "meaning": "A warm-blooded animal that feeds its babies milk.",
+  "example": "A dolphin is a mammal."
+ },
+ {
+  "word": "amphibian",
+  "emoji": "🐸",
+  "meaning": "An animal that lives in water and on land, like a frog.",
+  "example": "A frog is an amphibian."
+ },
+ {
+  "word": "skeleton",
+  "emoji": "🦴",
+  "meaning": "The framework of bones inside a body.",
+  "example": "A skeleton protects our organs."
+ },
+ {
+  "word": "microscope",
+  "emoji": "🔬",
+  "meaning": "A tool that makes tiny things look much bigger.",
+  "example": "We studied a leaf under a microscope."
+ },
+ {
+  "word": "experiment",
+  "emoji": "🧪",
+  "meaning": "A test to find out how something works.",
+  "example": "We did an experiment with baking soda."
+ },
+ {
+  "word": "democracy",
+  "emoji": "🗳️",
+  "meaning": "A system where people vote to choose their leaders.",
+  "example": "In a democracy, everyone gets a vote."
+ },
+ {
+  "word": "civilization",
+  "emoji": "🏛️",
+  "meaning": "An advanced society with cities, laws and culture.",
+  "example": "Ancient Greece was a great civilization."
+ },
+ {
+  "word": "pyramid",
+  "emoji": "🔺",
+  "meaning": "A shape with a square base and triangle sides; an Egyptian tomb.",
+  "example": "The pharaoh was buried in a pyramid."
+ },
+ {
+  "word": "architect",
+  "emoji": "📐",
+  "meaning": "A person who designs buildings.",
+  "example": "The architect drew the plans for the school."
+ },
+ {
+  "word": "economy",
+  "emoji": "💰",
+  "meaning": "The system of money, work and trade in a country.",
+  "example": "A strong economy creates jobs."
+ },
+ {
+  "word": "currency",
+  "emoji": "💵",
+  "meaning": "The type of money used in a country.",
+  "example": "The dollar is a currency."
+ },
+ {
+  "word": "generation",
+  "emoji": "👨‍👩‍👧‍👦",
+  "meaning": "All the people born around the same time; a family level.",
+  "example": "Three generations lived in one house."
+ },
+ {
+  "word": "festival",
+  "emoji": "🎪",
+  "meaning": "A special day or event of celebration.",
+  "example": "The town held a music festival."
+ },
+ {
+  "word": "ceremony",
+  "emoji": "🎓",
+  "meaning": "A formal event held on a special occasion.",
+  "example": "The graduation ceremony was long."
+ },
+ {
+  "word": "eclipse",
+  "emoji": "🌒",
+  "meaning": "When one heavenly body hides another, like the Moon covering the Sun.",
+  "example": "We watched the solar eclipse with special glasses."
+ },
+ {
+  "word": "constellation",
+  "emoji": "⭐",
+  "meaning": "A group of stars that forms a pattern.",
+  "example": "Orion is a famous constellation."
+ },
+ {
+  "word": "equator",
+  "emoji": "🌐",
+  "meaning": "The imaginary line around the middle of the Earth.",
+  "example": "It is hot near the equator."
+ },
+ {
+  "word": "continent",
+  "emoji": "🌎",
+  "meaning": "One of Earth's seven huge areas of land.",
+  "example": "Africa is a continent."
+ },
+ {
+  "word": "sympathy",
+  "emoji": "🤗",
+  "meaning": "Feeling sorry for someone else's trouble.",
+  "example": "She showed sympathy to her sad friend."
+ },
+ {
+  "word": "integrity",
+  "emoji": "🧑‍⚖️",
+  "meaning": "Being honest and having strong moral principles.",
+  "example": "A judge must have integrity."
+ },
+ {
+  "word": "resilient",
+  "emoji": "🌵",
+  "meaning": "Able to recover quickly from difficulties.",
+  "example": "A cactus is resilient in the desert."
+ },
+ {
+  "word": "optimistic",
+  "emoji": "😎",
+  "meaning": "Hopeful and expecting good things to happen.",
+  "example": "He stayed optimistic despite the rain."
+ },
+ {
+  "word": "perseverance",
+  "emoji": "🧗",
+  "meaning": "Keeping on trying even when it is hard.",
+  "example": "It takes perseverance to climb a mountain."
+ },
+ {
+  "word": "conscience",
+  "emoji": "😇",
+  "meaning": "Your inner sense of what is right and wrong.",
+  "example": "My conscience told me to return the wallet."
+ },
+ {
+  "word": "sincere",
+  "emoji": "💌",
+  "meaning": "Honest and meaning what you say.",
+  "example": "She wrote a sincere thank-you letter."
+ },
+ {
+  "word": "diligent",
+  "emoji": "📝",
+  "meaning": "Working carefully and with steady effort.",
+  "example": "A diligent student finishes all the homework."
+ },
+ {
+  "word": "reckless",
+  "emoji": "🏍️",
+  "meaning": "Careless about danger or consequences.",
+  "example": "Riding without a helmet is reckless."
+ },
+ {
+  "word": "rebel",
+  "emoji": "🏴‍☠️",
+  "meaning": "A person who fights against rules or authority.",
+  "example": "The pirate was a rebel against the king."
+ },
+ {
+  "word": "mediocre",
+  "emoji": "😐",
+  "meaning": "Only average; not very good.",
+  "example": "The movie was mediocre."
+ },
+ {
+  "word": "trivial",
+  "emoji": "📎",
+  "meaning": "Small and not important.",
+  "example": "A paper clip is a trivial thing."
+ },
+ {
+  "word": "monotonous",
+  "emoji": "🔂",
+  "meaning": "Boring because nothing changes.",
+  "example": "The monotonous song repeated all day."
+ },
+ {
+  "word": "anonymous",
+  "emoji": "🎭",
+  "meaning": "Without a known name.",
+  "example": "The gift came from an anonymous sender."
+ },
+ {
+  "word": "vulnerable",
+  "emoji": "🐣",
+  "meaning": "Easily hurt or attacked.",
+  "example": "A newborn chick is vulnerable."
+ },
+ {
+  "word": "jubilant",
+  "emoji": "🎊",
+  "meaning": "Extremely joyful, especially about a success.",
+  "example": "The fans were jubilant after the win."
+ },
+ {
+  "word": "ominous",
+  "emoji": "🦇",
+  "meaning": "Giving a feeling that something bad will happen.",
+  "example": "The dark clouds looked ominous."
+ },
+ {
+  "word": "haunted",
+  "emoji": "🎃",
+  "meaning": "Said to be visited by ghosts.",
+  "example": "They explored the haunted house."
+ },
+ {
+  "word": "enchanted",
+  "emoji": "🪄",
+  "meaning": "Put under a magic spell; delighted.",
+  "example": "The enchanted wand glowed."
+ },
+ {
+  "word": "fortress",
+  "emoji": "🏯",
+  "meaning": "A strong building built to resist attack.",
+  "example": "The fortress stood on the hill."
+ },
+ {
+  "word": "mythical",
+  "emoji": "🧚",
+  "meaning": "Existing only in ancient stories.",
+  "example": "Fairies are mythical creatures."
+ },
+ {
+  "word": "portal",
+  "emoji": "🚪",
+  "meaning": "A doorway or entrance, especially a grand or magical one.",
+  "example": "The portal led to another world."
+ },
+ {
+  "word": "gadget",
+  "emoji": "📱",
+  "meaning": "A small clever machine or tool.",
+  "example": "His phone is a handy gadget."
+ },
+ {
+  "word": "technology",
+  "emoji": "💻",
+  "meaning": "Machines and tools made using science.",
+  "example": "Computers are modern technology."
+ },
+ {
+  "word": "robot",
+  "emoji": "🤖",
+  "meaning": "A machine that can do tasks automatically.",
+  "example": "The robot cleaned the floor."
+ },
+ {
+  "word": "digital",
+  "emoji": "🎮",
+  "meaning": "Using computers or electronic signals.",
+  "example": "Video games are digital."
+ },
+ {
+  "word": "virtual",
+  "emoji": "🕶️",
+  "meaning": "Existing on a computer, not in the real world.",
+  "example": "They toured a virtual museum."
+ },
+ {
+  "word": "network",
+  "emoji": "🕸️",
+  "meaning": "A group of things connected to each other.",
+  "example": "A spider web is a network of threads."
+ }
+]

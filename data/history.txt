@@ -1,0 +1,94 @@
+# History & Society|🏛️
+king|🤴|1|A male ruler of a country.|The king wore a golden crown.
+queen|👸|1|A female ruler or wife of a king.|The queen waved to the crowd.
+knight|🏇|1|A medieval soldier who served a king.|The knight rode a white horse.
+sword|⚔️|1|A weapon with a long, sharp blade.|He drew his sword.
+armour|🛡|2|Metal clothing worn to protect soldiers.|The knight's armour shone.
+crown|👑|1|A royal headpiece made of gold and jewels.|The crown sparkled.
+throne|🪑|2|A grand chair for a king or queen.|The king sat on his throne.
+empire|🏰|2|A group of lands ruled by one powerful ruler.|The Roman Empire was vast.
+emperor|🏯|2|The ruler of an empire.|The emperor addressed the crowd.
+pharaoh|🏺|2|A king of ancient Egypt.|The pharaoh built a pyramid.
+mummy|🧟|2|A preserved dead body wrapped in cloth.|The mummy lay in the tomb.
+pyramid|🔺|2|A huge stone tomb of ancient Egypt.|The pyramid stood in the desert.
+gladiator|🤺|3|A fighter in ancient Roman arenas.|The gladiator entered the arena.
+warrior|🪖|2|A brave fighter.|The warrior charged into battle.
+soldier|💂|1|A person in an army.|The soldier stood guard.
+army|🪖|1|A large organised group of soldiers.|The army marched across the plain.
+battle|💥|2|A fight between armies.|The battle raged all day.
+castle|🏰|1|A fortified home of a lord or king.|The castle had thick walls.
+moat|🌊|2|A deep ditch of water around a castle.|A drawbridge crossed the moat.
+drawbridge|🌉|3|A bridge that can be raised.|They raised the drawbridge.
+dungeon|⛓️|2|A dark prison beneath a castle.|The prisoner was in the dungeon.
+peasant|🧑‍🌾|3|A poor farmer in the past.|The peasant worked the fields.
+noble|🎩|2|A person of high rank in society.|The noble lived in a manor.
+slave|⛓|3|A person forced to work with no freedom.|In the past, slaves were owned as property.
+explorer|🧭|2|A person who travels to discover new places.|The explorer sailed to unknown seas.
+colony|🏴|3|A place settled and controlled by another country.|America was once a colony.
+settler|🛖|3|A person who moves to live in a new place.|A settler built a cabin.
+invasion|⚔|3|When an army enters another country to take control.|The invasion began at dawn.
+revolution|✊|3|A sudden, big change, often in government.|The revolution overthrew the king.
+independence|🗽|3|Freedom from control by others.|The country celebrated independence.
+freedom|🕊|2|The right to live as you choose.|Freedom is precious.
+justice|⚖|2|Fair treatment under the law.|The judge sought justice.
+law|📜|1|A rule made by the government.|It's the law to wear a seatbelt.
+government|🏛|2|The group of people who run a country.|The government passed a new law.
+president|🇺🇸|2|The elected leader of a country.|The president gave a speech.
+election|🗳|2|A vote to choose a leader.|People voted in the election.
+vote|✅|1|To choose someone by marking a ballot.|Citizens vote for their leaders.
+citizen|🪪|2|A person who belongs to a country.|Every citizen has rights.
+parliament|🏛|3|A group of people who make the laws of a country.|Parliament debated the bill.
+constitution|📖|3|The set of basic rules for governing a country.|The constitution protects rights.
+treaty|🤝|3|A formal agreement between countries.|The two nations signed a treaty.
+diplomat|🕴|3|A person who represents their country abroad.|The diplomat met foreign leaders.
+ambassador|🏢|3|An official representative of a country abroad.|The ambassador attended the dinner.
+tax|💸|2|Money paid to the government.|People pay tax on their income.
+trade|🔄|2|The buying and selling of goods.|Merchants trade spices.
+merchant|🧑‍💼|2|A person who buys and sells goods.|The merchant sold silk.
+market|🛒|1|A place where goods are bought and sold.|We bought fruit at the market.
+coin|🪙|1|A small piece of metal used as money.|He tossed a coin.
+wealth|💰|2|A large amount of money or valuable things.|The king had great wealth.
+poverty|🥣|3|The state of being very poor.|Charities fight poverty.
+industry|🏭|2|Making goods in factories.|Industry grew in the city.
+factory|🏭|1|A building where goods are made.|The factory made toys.
+invention|💡|2|Something new that someone makes.|The telephone was a great invention.
+printing|🖨|3|Producing words or pictures on paper.|Printing spread books.
+steam|🚂|1|Hot water vapour used for power.|Steam trains hissed.
+electricity|🔌|2|A form of energy that powers machines.|Electricity lights the house.
+museum|🏛️|1|A building that displays old or important objects.|We saw dinosaur bones at the museum.
+artefact|🏺|3|An object made by people long ago.|The archaeologist found a Roman artefact.
+archaeologist|⛏️|3|A scientist who digs up the past.|The archaeologist uncovered a vase.
+ancient|🗿|2|Belonging to a very long time ago.|We studied ancient Rome.
+medieval|🏰|3|Belonging to the Middle Ages.|Medieval towns had high walls.
+century|📆|2|A period of one hundred years.|A century is a hundred years.
+decade|🗓|2|A period of ten years.|Ten years is a decade.
+era|⏳|3|A long period of history.|The Victorian era saw many inventions.
+prehistoric|🦖|3|Belonging to the time before written records.|Prehistoric people painted cave walls.
+tribe|🛖|2|A group of people who share customs and live together.|The tribe lived by the river.
+nomad|🐫|3|A person who moves from place to place.|Nomads travel with their tents.
+civilization|🏛|3|A society with cities, culture and government.|The Aztec civilization was advanced.
+democracy|🗳️|3|A government where the people vote for leaders.|Athens invented democracy.
+monarchy|👑|3|A government led by a king or queen.|Britain is a monarchy.
+dictator|🧑‍✈️|3|A ruler with total power.|The dictator ignored the laws.
+rebel|🚩|2|Someone who fights against authority.|The rebel opposed the king.
+rebellion|✊🏽|3|An organised resistance against a ruler.|The rebellion was crushed.
+hero|🦸‍♂️|1|A person admired for bravery.|The hero saved the village.
+legend|📜|2|A traditional story about heroes.|The legend of Robin Hood is famous.
+myth|🐲|2|An old story that explains natural events, often with gods.|A Greek myth tells of Zeus.
+prophecy|🔮|3|A prediction of the future.|The prophecy foretold a great flood.
+scroll|📜|2|A rolled-up sheet of paper or parchment.|He read the ancient scroll.
+parchment|📃|3|Writing material made from animal skin.|Monks wrote on parchment.
+quill|🪶|2|A pen made from a feather.|She wrote with a quill.
+manuscript|📚|3|A handwritten book or document.|The manuscript was hundreds of years old.
+chronicle|📓|3|A record of events in time order.|The monk wrote a chronicle.
+historian|👨‍🏫|3|A person who studies the past.|The historian wrote a book about Rome.
+memorial|🕯|3|Something built to remember a person or event.|A memorial honours soldiers.
+anniversary|🎂|2|A day marking an event of a past year.|Today is their wedding anniversary.
+tradition|🎉|2|A custom passed down over generations.|It is a tradition to give gifts.
+heritage|🧬|3|Traditions and objects passed down from the past.|The castle is part of our heritage.
+ancestor|🌳|3|A family member from long ago.|My ancestor came from Ireland.
+generation|👪|2|All the people born around the same time.|The older generation told stories.
+community|🏘️|2|A group of people living in the same area.|The community held a fair.
+society|🌆|3|People living together in an organised way.|A fair society helps everyone.
+charity|❤️|2|An organisation that helps people in need.|We raised money for charity.
+volunteer|🙋|2|Someone who helps without being paid.|A volunteer served meals.

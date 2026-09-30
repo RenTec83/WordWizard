@@ -1,0 +1,118 @@
+# Wild Animals|🦁
+whale|🐋|1|The largest animal in the ocean.|A whale sprayed water from its blowhole.
+squirrel|🐿️|1|A small furry animal that climbs trees and stores nuts.|The squirrel buried an acorn.
+butterfly|🦋|1|An insect with large colourful wings.|A butterfly landed on the flower.
+kangaroo|🦘|1|An Australian animal that hops and carries its baby in a pouch.|The kangaroo hopped across the field.
+penguin|🐧|1|A black and white bird that swims but cannot fly.|The penguin slid on the ice.
+octopus|🐙|1|A sea animal with eight long arms.|The octopus squeezed into a tiny cave.
+dolphin|🐬|1|A clever sea mammal that leaps and clicks.|A dolphin jumped beside the boat.
+crocodile|🐊|1|A big reptile with strong jaws that lives near water.|The crocodile floated like a log.
+giraffe|🦒|1|The tallest land animal, with a very long neck.|The giraffe ate leaves from a tall tree.
+zebra|🦓|1|A horse-like animal with black and white stripes.|The zebra grazed on the savanna.
+hippopotamus|🦛|2|A huge animal that spends its days in rivers.|The hippopotamus yawned widely.
+rhinoceros|🦏|2|A large animal with a thick skin and a horn on its nose.|The rhinoceros charged through the grass.
+gorilla|🦍|1|The largest ape, strong and gentle.|The gorilla beat its chest.
+parrot|🦜|1|A colourful bird that can copy human words.|The parrot said hello.
+flamingo|🦩|1|A pink bird that often stands on one leg.|A flamingo waded in the lake.
+peacock|🦚|1|A male bird with a huge, fan-shaped, jewelled tail.|The peacock spread its tail.
+hedgehog|🦔|1|A small animal covered in spines.|The hedgehog rolled into a ball.
+bat|🦇|1|A flying mammal that sleeps upside down.|A bat flew out of the cave at dusk.
+scorpion|🦂|1|A small creature with pincers and a stinging tail.|The scorpion hid under a rock.
+spider|🕷️|1|An eight-legged creature that spins webs.|The spider waited in its web.
+snail|🐌|1|A slow animal with a spiral shell on its back.|The snail left a silvery trail.
+turtle|🐢|1|A reptile with a hard shell.|The turtle pulled its head into its shell.
+frog|🐸|1|A small jumping animal that lives near water.|The frog leapt onto a lily pad.
+owl|🦉|1|A bird that hunts at night and can turn its head far around.|The owl hooted in the dark.
+eagle|🦅|1|A large bird of prey with sharp eyesight.|The eagle spotted a fish from high above.
+shark|🦈|1|A big ocean fish with sharp teeth.|The shark circled the reef.
+seal|🦭|1|A sleek sea animal that barks and basks on rocks.|The seal clapped its flippers.
+otter|🦦|1|A playful furry animal that swims and floats on its back.|The otter cracked a shell on its tummy.
+beaver|🦫|1|An animal that builds dams from sticks and mud.|The beaver gnawed a log.
+sloth|🦥|1|A very slow animal that hangs from trees.|The sloth barely moved all day.
+camel|🐪|1|A desert animal with a hump on its back.|The camel crossed the dunes.
+llama|🦙|1|A woolly animal from South America that carries loads.|The llama chewed on grass.
+bee|🐝|1|A buzzing insect that makes honey.|The bee visited every flower.
+ant|🐜|1|A tiny insect that lives in a large group called a colony.|An ant carried a crumb.
+ladybird|🐞|1|A small red beetle with black spots.|A ladybird crawled up the stem.
+wolf|🐺|1|A wild dog that lives and hunts in packs.|The wolf howled at the moon.
+fox|🦊|1|A wild animal with a bushy tail and pointed ears.|The fox crept across the field.
+bear|🐻|1|A big, strong animal with thick fur.|The bear caught a salmon.
+panda|🐼|1|A black and white bear that eats bamboo.|The panda munched on bamboo.
+koala|🐨|1|A furry Australian animal that sleeps in eucalyptus trees.|The koala hugged the tree.
+lion|🦁|1|A big cat called the king of the jungle.|The lion roared.
+tiger|🐅|1|A large striped wild cat.|The tiger stalked through the grass.
+leopard|🐆|1|A spotted big cat that climbs trees.|The leopard dragged its prey up a tree.
+elephant|🐘|1|The largest land animal, with a trunk and tusks.|The elephant sprayed water with its trunk.
+monkey|🐒|1|A clever animal that swings through trees.|The monkey grabbed a banana.
+swan|🦢|1|A large white bird with a long, curved neck.|The swan glided on the lake.
+duck|🦆|1|A water bird with a flat bill.|The duck paddled across the pond.
+crab|🦀|1|A sea animal with a hard shell and claws.|The crab scuttled sideways.
+lobster|🦞|1|A sea animal with large claws, red when cooked.|The lobster hid under a rock.
+jellyfish|🪼|2|A soft, see-through sea creature that can sting.|The jellyfish drifted with the waves.
+starfish|⭐|2|A sea creature shaped like a star.|A starfish clung to the rock.
+seahorse|🐴|2|A tiny fish with a horse-shaped head.|The seahorse held on to seaweed.
+walrus|🦣|2|A large sea mammal with long tusks.|The walrus rested on the ice.
+mammoth|🦣|2|A giant extinct animal like a hairy elephant.|A mammoth's tusks curved upward.
+cheetah|🐆|2|The fastest land animal.|The cheetah sprinted after a gazelle.
+antelope|🦌|2|A fast, graceful animal with horns.|The antelope leapt away.
+reindeer|🦌|2|A deer that lives in cold northern lands.|Reindeer pulled the sled.
+buffalo|🐃|2|A large, strong horned animal.|The herd of buffalo thundered by.
+chameleon|🦎|2|A lizard that can change its colour.|The chameleon turned green.
+iguana|🦎|2|A large tropical lizard.|The iguana basked in the sun.
+tortoise|🐢|2|A slow land reptile with a domed shell.|The tortoise plodded along.
+alligator|🐊|2|A large reptile with a wide snout, found in swamps.|The alligator slid into the water.
+vulture|🦅|2|A big bird that feeds on dead animals.|A vulture circled above.
+pelican|🦩|2|A large water bird with a pouch under its beak.|The pelican scooped up fish.
+woodpecker|🐦|2|A bird that taps trees with its beak.|The woodpecker drilled into the trunk.
+hummingbird|🐦|2|A tiny bird that hovers and beats its wings very fast.|The hummingbird sipped nectar.
+platypus|🦆|2|An odd Australian mammal with a duck-like bill that lays eggs.|The platypus swam in the stream.
+armadillo|🦔|2|A small animal covered with bony plates.|The armadillo curled up.
+porcupine|🦔|2|A rodent covered in long sharp quills.|The porcupine raised its quills.
+meerkat|🐿️|2|A small African animal that stands on its hind legs to watch for danger.|The meerkat stood guard.
+lemur|🐒|2|A furry animal from Madagascar with a long striped tail.|The lemur leapt between branches.
+orangutan|🦧|2|A red-haired ape that lives in trees.|The orangutan swung through the canopy.
+chimpanzee|🐒|2|A very clever ape.|The chimpanzee used a stick as a tool.
+mongoose|🐿️|2|A small animal that can fight snakes.|The mongoose darted at the cobra.
+badger|🦡|2|A burrowing animal with a black and white striped face.|The badger dug a large sett.
+raccoon|🦝|2|A masked animal that washes its food.|The raccoon opened the bin.
+skunk|🦨|2|A black and white animal that sprays a bad smell.|The skunk lifted its tail.
+moose|🫎|2|The largest kind of deer, with huge antlers.|A moose waded into the lake.
+bison|🦬|2|A shaggy, humped animal of the American plains.|A bison grazed on the prairie.
+orca|🐋|2|A black and white whale, also called a killer whale.|An orca leaped from the sea.
+narwhal|🐋|2|A whale with a long, spiral tusk.|The narwhal has a tusk like a unicorn.
+stingray|🐟|2|A flat fish with a stinging tail.|A stingray glided over the sand.
+barracuda|🐟|2|A long, fierce fish with sharp teeth.|The barracuda hunted near the reef.
+piranha|🐟|2|A small fish with razor-sharp teeth.|Piranhas swam in the river.
+caterpillar|🐛|1|The wormlike young stage of a butterfly or moth.|The caterpillar munched a leaf.
+dragonfly|🪰|2|A flying insect with long, shimmering wings.|A dragonfly hovered over the pond.
+grasshopper|🦗|1|An insect with strong back legs for jumping.|A grasshopper leapt through the grass.
+cricket|🦗|1|An insect that chirps at night.|A cricket chirped by the window.
+firefly|✨|2|A beetle that glows in the dark.|Fireflies lit the summer evening.
+termite|🐜|2|A small insect that eats wood and builds big mounds.|Termites built a tall mound.
+beetle|🪲|1|An insect with hard wing covers.|A beetle crawled up the wall.
+cockroach|🪳|2|A hardy insect that scurries at night.|The cockroach ran under the fridge.
+mosquito|🦟|1|A biting insect that buzzes near your ear.|A mosquito bit my arm.
+worm|🪱|1|A soft, long creature that lives in soil.|The worm wriggled underground.
+predator|🐺|2|An animal that hunts other animals.|The lion is a predator.
+prey|🐇|2|An animal that is hunted by another animal.|The rabbit was the fox's prey.
+carnivore|🥩|3|An animal that eats meat.|A lion is a carnivore.
+herbivore|🌿|3|An animal that eats only plants.|A cow is a herbivore.
+omnivore|🍽️|3|An animal that eats both plants and meat.|Bears are omnivores.
+scavenger|🦴|3|An animal that feeds on leftover, dead animals.|Hyenas are scavengers.
+extinct|🦖|3|No longer existing; died out completely.|Dinosaurs are extinct.
+endangered|⚠️|3|At risk of becoming extinct.|The panda is an endangered animal.
+nocturnal|🌙|3|Active at night.|Bats are nocturnal creatures.
+diurnal|🌞|3|Active during the day.|Squirrels are diurnal animals.
+vertebrate|🦴|3|An animal with a backbone.|A fish is a vertebrate.
+invertebrate|🐌|3|An animal without a backbone.|A snail is an invertebrate.
+metamorphosis|🦋|3|A big change in body form as an animal grows, like a caterpillar becoming a butterfly.|Metamorphosis turns a tadpole into a frog.
+predatory|🦈|3|Hunting and killing other animals for food.|A shark has predatory instincts.
+territory|🗺️|3|An area an animal claims and defends.|The tiger marked its territory.
+instinct|🧠|3|A natural behaviour an animal is born with.|Birds migrate by instinct.
+plumage|🪶|3|The feathers covering a bird.|The parrot's plumage was bright.
+antler|🦌|2|A branched horn on a deer's head.|The stag's antlers were huge.
+tentacle|🐙|3|A long, flexible arm of a sea animal like an octopus.|The squid waved a tentacle.
+predation|🐆|3|The act of one animal hunting another.|Predation keeps prey numbers balanced.
+camouflaged|🦎|3|Coloured to blend in with the background.|The camouflaged moth was hard to see.
+migration|🪿|3|A regular journey animals make in search of food or warmth.|Geese begin their migration in autumn.
+symbiosis|🤝|3|Two different living things helping each other.|Clownfish and anemones live in symbiosis.

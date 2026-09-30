@@ -64,3 +64,4 @@ button.speak{background:var(--card2);color:var(--gold);box-shadow:0 4px 0 #11142
 @keyframes fall{to{transform:translateY(115vh) rotate(540deg)}}
 .rankup{animation:pop .7s;color:var(--lime);font-weight:900;font-size:1.3rem}
 @media (min-width:500px){.slot,.letter{width:54px;height:64px}}
+.badge{display:inline-block;font-size:.8rem;font-weight:800;letter-spacing:.5px;color:var(--lime);border:1px solid #b6ff3b66;background:#b6ff3b14;border-radius:20px;padding:4px 12px;margin:4px 0}

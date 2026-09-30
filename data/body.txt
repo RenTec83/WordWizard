@@ -1,0 +1,103 @@
+# Body & Health|🫀
+heart|❤️|1|The organ that pumps blood around your body.|My heart beats faster when I run.
+brain|🧠|1|The organ in your head that controls thinking and movement.|Your brain never stops working.
+lung|🫁|1|An organ you use to breathe.|Your lungs fill with air.
+bone|🦴|1|A hard part of the skeleton.|He broke a bone in his arm.
+muscle|💪|1|Tissue that tightens to make your body move.|Exercise makes your muscles strong.
+skin|🖐️|1|The outer covering of your body.|Sunscreen protects your skin.
+tooth|🦷|1|One of the hard white parts in your mouth used for chewing.|I lost a tooth today.
+tongue|👅|1|The muscle in your mouth used for tasting and speaking.|Your tongue helps you taste.
+eye|👁️|1|The part of the body you see with.|Close your eye tightly.
+ear|👂|1|The part of the body you hear with.|Cover your ear when it's loud.
+nose|👃|1|The part of the face you smell with.|Her nose was cold.
+mouth|👄|1|The opening in your face for eating and speaking.|Open your mouth wide.
+hand|✋|1|The part at the end of your arm.|He raised his hand.
+foot|🦶|1|The part at the end of your leg you stand on.|My foot fell asleep.
+leg|🦵|1|A limb used for walking and running.|She hurt her leg.
+fingernail|💅|1|The hard covering at the tip of a finger.|Don't bite your fingernails.
+footprint|👣|1|A mark left by a foot.|Footprints led across the sand.
+hair|💇|1|The strands that grow on your head.|She brushed her hair.
+blood|🩸|1|The red liquid that flows through your body.|Blood carries oxygen.
+sneeze|🤧|1|To suddenly blow air out of your nose.|Pollen made me sneeze.
+cough|😷|1|To force air out of your throat with a noise.|I have a bad cough.
+fever|🤒|1|A body temperature that is higher than normal.|He stayed home with a fever.
+bandage|🩹|1|A strip of cloth wrapped around an injury.|The nurse put a bandage on my knee.
+medicine|💊|1|Something you take to get better.|Take your medicine after dinner.
+vitamin|🍊|2|A natural substance in food that keeps you healthy.|Oranges contain vitamin C.
+exercise|🏃|1|Physical activity to keep fit.|Daily exercise keeps you healthy.
+stretch|🤸|1|To extend your body or limbs to their full length.|Stretch before you run.
+sleep|😴|1|The natural state of rest each night.|Get plenty of sleep.
+dream|💭|1|Pictures and stories in your mind while you sleep.|I had a strange dream.
+hungry|🍽️|1|Needing food.|I'm hungry for lunch.
+yawn|🥱|1|To open your mouth wide when you are tired.|The lesson made me yawn.
+shiver|🥶|1|To shake because of cold or fear.|I shiver on cold mornings.
+sweat|😅|1|Moisture that comes out of your skin when you are hot.|Sweat dripped down his face.
+breathe|😮‍💨|1|To take air into your lungs and let it out.|Breathe slowly and calmly.
+pulse|💓|2|The steady beat of blood in your arteries.|The nurse checked my pulse.
+digest|🍔|2|To break down food in your stomach.|Your stomach helps you digest lunch.
+stomach|🫃|2|The organ where food is broken down.|My stomach rumbled.
+intestine|🧬|3|The long tube in your body where food is digested after the stomach.|The small intestine absorbs nutrients.
+kidney|🫘|2|An organ that cleans waste from your blood.|You have two kidneys.
+liver|🍖|2|A large organ that cleans your blood and helps digestion.|The liver is in your abdomen.
+spine|🦴|2|The row of bones down your back.|Sit up with a straight spine.
+skull|💀|2|The bones of the head that protect the brain.|A helmet protects your skull.
+rib|🦴|2|One of the curved bones around your chest.|A rib protects the heart.
+joint|🦿|2|A place where two bones meet.|Your knee is a joint.
+elbow|💪|1|The joint in the middle of your arm.|She bumped her elbow.
+knee|🦵|1|The joint in the middle of your leg.|He fell and scraped his knee.
+shoulder|🤷|1|The joint where your arm joins your body.|She carried a bag on her shoulder.
+ankle|🦶|1|The joint connecting your foot to your leg.|I twisted my ankle.
+wrist|⌚|1|The joint between your hand and arm.|He wore a watch on his wrist.
+throat|🗣️|1|The passage at the back of your mouth.|My throat is sore.
+nerve|⚡|2|A fibre that carries messages between your brain and body.|A nerve sends pain signals.
+tendon|🦾|3|A tough cord that joins muscle to bone.|The athlete pulled a tendon.
+ligament|🦿|3|A strong band that connects bone to bone.|He tore a ligament in his knee.
+vein|🩸|2|A tube that carries blood back to the heart.|Blood flows through a vein.
+artery|❤️‍🔥|3|A tube that carries blood away from the heart.|An artery carries fresh blood.
+oxygenated|🔴|3|Filled with oxygen.|Oxygenated blood is bright red.
+circulation|🔄|3|The movement of blood around the body.|Exercise improves circulation.
+respiration|🌬️|3|The process of breathing.|Respiration gives the body oxygen.
+digestion|🍽️|3|The process of breaking down food.|Chewing helps digestion.
+immune|🛡️|3|Able to resist infection.|The vaccine makes you immune.
+vaccine|💉|2|An injection that protects you from a disease.|A vaccine keeps you healthy.
+infection|🦠|2|A disease caused by germs.|The cut got an infection.
+germ|🦠|1|A tiny living thing that can make you sick.|Wash your hands to kill germs.
+bacteria|🧫|2|Tiny single-celled living things, some of them harmful.|Some bacteria cause illness.
+virus|🦠|2|A tiny germ that can cause disease.|The virus spread quickly.
+allergy|🤧|2|A reaction to something that does not bother most people.|She has an allergy to peanuts.
+asthma|😮‍💨|3|A condition that makes breathing difficult.|Asthma makes him wheeze.
+diabetes|🩸|3|A condition where the body cannot control sugar in the blood.|Diabetes needs careful eating.
+nutrition|🥗|2|Food and its effect on health.|Good nutrition helps you grow.
+protein|🥚|2|A nutrient in meat, eggs and beans that builds muscles.|Eggs are rich in protein.
+calcium|🥛|3|A mineral that builds strong bones and teeth.|Milk contains calcium.
+carbohydrate|🍞|3|A nutrient in bread and pasta that gives energy.|Pasta is high in carbohydrate.
+hygiene|🧼|3|Keeping yourself and your surroundings clean.|Good hygiene stops germs spreading.
+posture|🧍|3|The way you hold your body when sitting or standing.|Good posture helps your back.
+reflex|🔨|3|An automatic body reaction you cannot control.|The doctor tested my knee reflex.
+adrenaline|⚡|3|A hormone that gives you a burst of energy.|Adrenaline raced through him.
+metabolism|🔥|3|The chemical processes in your body that turn food into energy.|A fast metabolism burns food quickly.
+fracture|🩻|3|A break in a bone.|The X-ray showed a fracture.
+sprain|🦶|2|An injury caused by twisting a joint.|A sprain made her limp.
+bruise|🟣|1|A dark mark on the skin where you were hit.|The bump left a bruise.
+blister|🫧|2|A small bubble of fluid on the skin.|New shoes gave me a blister.
+scar|🩹|2|A mark left after a wound heals.|The cut left a small scar.
+wound|🩹|2|An injury where the skin is cut or torn.|The nurse cleaned the wound.
+stitch|🪡|2|A loop of thread used to close a wound.|He needed a stitch on his chin.
+crutch|🦯|2|A support that helps someone walk with an injured leg.|He walked with crutches.
+wheelchair|🧑‍🦽|2|A chair with wheels for someone who cannot walk.|She rolled her wheelchair down the ramp.
+stethoscope|🩺|3|A tool doctors use to listen to your heart.|The doctor used a stethoscope.
+thermometer|🌡️|2|A tool for measuring temperature.|The thermometer said 38 degrees.
+surgeon|🧑‍⚕️|3|A doctor who performs operations.|The surgeon repaired his knee.
+pharmacy|🏪|3|A shop where medicines are sold.|Mum collected medicine at the pharmacy.
+ambulance|🚑|2|A vehicle that takes sick people to hospital.|The ambulance raced to the hospital.
+hospital|🏥|1|A place where sick people are treated.|She stayed at the hospital.
+dentist|🦷|1|A doctor who looks after teeth.|I visit the dentist twice a year.
+optician|👓|3|A person who tests eyesight and prescribes glasses.|The optician checked my eyes.
+glasses|👓|1|Lenses worn to help you see better.|He wears glasses to read.
+fitness|🏋️|2|Being strong and healthy.|Fitness takes daily effort.
+stamina|🏃‍♀️|3|The strength to keep going for a long time.|Marathon runners need stamina.
+endurance|⏱️|3|The ability to keep doing something difficult for a long time.|Swimming across the lake took endurance.
+relax|🧘|1|To rest and become calm.|Relax and take a deep breath.
+meditate|🧘‍♂️|3|To sit quietly and clear your mind.|She likes to meditate each morning.
+fatigue|😩|3|Extreme tiredness.|Fatigue slowed the hikers.
+recover|🛌|2|To get well again after being ill.|It takes a week to recover from flu.

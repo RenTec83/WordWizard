@@ -1,0 +1,85 @@
+# Adventure & Travel|🧭
+journey|🚂|1|A trip from one place to another.|Our journey took all day.
+passport|🛂|1|An official document you show when travelling abroad.|She showed her passport.
+suitcase|🧳|1|A case for carrying clothes on a trip.|He packed his suitcase.
+airport|🛫|1|A place where aeroplanes take off and land.|We waited at the airport.
+aeroplane|✈️|1|A flying vehicle with wings and engines.|The aeroplane roared down the runway.
+helicopter|🚁|1|An aircraft with spinning blades on top.|A helicopter rescued the hikers.
+harbour|⚓|2|A sheltered place where ships stay.|Boats bobbed in the harbour.
+lighthouse|🗼|2|A tower with a bright light to guide ships.|The lighthouse warned ships of the rocks.
+ferry|⛴️|1|A boat that carries people across water.|We took the ferry to the island.
+submarine|🚢|2|A ship that travels underwater.|The submarine dived deep.
+sailor|⛵|1|A person who works on a boat.|The sailor tied the ropes.
+captain|🧑‍✈️|1|The person in charge of a ship or plane.|The captain steered the ship.
+pirate|🏴‍☠️|1|A sea robber.|The pirate buried his treasure.
+treasure|💰|1|Gold, jewels and other valuable things.|They dug for treasure.
+map|🗺️|1|A drawing of an area showing places and roads.|We followed the map.
+compass|🧭|2|A tool with a needle that points north.|The compass showed the way.
+expedition|🥾|3|A journey made for a special purpose such as exploring.|The expedition reached the pole.
+explorer|🧑‍🚀|2|A person who travels to find out about new places.|The explorer crossed the desert.
+adventure|🏕️|1|An exciting and unusual experience.|Camping was a great adventure.
+tent|⛺|1|A portable shelter made of cloth.|We pitched the tent.
+campfire|🔥|1|An outdoor fire at a camp.|We toasted marshmallows on the campfire.
+backpack|🎒|1|A bag carried on your back.|He packed a backpack.
+binoculars|🔭|2|A tool with two lenses for seeing far away.|We watched birds through binoculars.
+telescope|🔭|2|A tube-shaped instrument for viewing far things.|The pirate looked through a telescope.
+trail|🥾|1|A path through the countryside.|We hiked along the trail.
+summit|🏔️|3|The highest point of a mountain.|They reached the summit at dawn.
+cliff|🧗|1|A steep rock face.|Gulls nested on the cliff.
+bridge|🌉|1|A structure that carries a road over water.|We crossed the bridge.
+tunnel|🚇|1|An underground passage.|The train sped into the tunnel.
+highway|🛣️|2|A main road.|Cars sped along the highway.
+journey|🚙|2|A long trip.|A long journey lay ahead.
+destination|📍|2|The place you are travelling to.|We reached our destination.
+itinerary|📅|3|A plan of a trip, with places and times.|Our itinerary included three cities.
+tourist|📷|1|A person who travels for pleasure.|The tourist took photos.
+souvenir|🎁|2|An item you keep to remember a trip.|I bought a souvenir.
+luggage|🧳|2|Bags and cases for a trip.|We collected our luggage.
+ticket|🎟️|1|A pass that lets you travel or enter a place.|I bought a train ticket.
+platform|🚉|1|The raised area next to train tracks.|We waited on the platform.
+station|🚉|1|A place where trains or buses stop.|We arrived at the station.
+taxi|🚕|1|A car that carries passengers for a fee.|We took a taxi to the hotel.
+bicycle|🚲|1|A two-wheeled vehicle you pedal.|She rode her bicycle.
+scooter|🛴|1|A small vehicle you stand on and push with one foot.|He rode his scooter.
+caravan|🚐|2|A vehicle you can live in while travelling.|We towed the caravan to the coast.
+volcanic|🌋|3|Relating to volcanoes.|The volcanic island had black sand.
+jungle|🌴|1|A thick tropical forest.|We trekked through the jungle.
+desert|🐪|1|A dry, sandy place.|We crossed the desert on camels.
+oasis|🌴|3|A fertile spot with water in a desert.|We rested at the oasis.
+canal|🛶|2|A man-made waterway.|A barge floated down the canal.
+kayak|🛶|2|A small narrow boat paddled by one person.|She paddled her kayak.
+raft|🛟|2|A flat floating platform.|They built a raft from logs.
+anchor|⚓|2|A heavy hook that holds a ship in place.|The crew dropped the anchor.
+voyage|🚢|2|A long sea journey.|The voyage lasted a month.
+cruise|🛳️|2|A holiday trip on a large ship.|We went on a cruise.
+horizon|🌅|2|The line where the sky meets the land or sea.|A ship appeared on the horizon.
+skyscraper|🏙️|2|A very tall building.|The skyscraper touched the clouds.
+castle|🏰|1|A large fortified building from medieval times.|The king lived in the castle.
+palace|👑|2|A grand home of a king or queen.|The palace had golden gates.
+temple|🛕|2|A building for worship.|Monks live at the temple.
+monument|🗽|2|A statue or building to remember a person or event.|We visited the monument.
+landmark|🗼|2|A famous, easy-to-see place.|The Eiffel Tower is a landmark.
+capital|🏛️|2|The city where a country's government sits.|Paris is the capital of France.
+border|🚧|2|The line that divides two countries.|We crossed the border.
+foreign|🌐|2|From another country.|She speaks a foreign language.
+culture|🎎|2|The way of life, arts and customs of a group of people.|Learn about a new culture.
+custom|🎊|2|A traditional way of behaving.|A custom in Japan is to bow.
+language|🗣️|1|The words people use to speak to each other.|French is a beautiful language.
+translate|🔤|3|To change words from one language into another.|Can you translate this?
+interpreter|🧑‍💼|3|A person who translates speech from one language to another.|The interpreter helped the guests.
+currency|💱|3|The money used in a country.|We changed our currency.
+customs|🛃|3|The place at a border where luggage is checked.|We passed through customs.
+quarantine|😷|3|Keeping apart to stop disease spreading.|Travellers had to quarantine.
+navigate|🧭|2|To find your way.|We navigate with a map.
+wander|🚶‍♂️|1|To walk around without a plan.|We wander through the market.
+roam|🐾|2|To travel around freely.|Tourists roam the streets.
+venture|🌄|3|To dare to go somewhere risky.|We ventured into the forest.
+discover|🔎|1|To find something for the first time.|Columbus wanted to discover new lands.
+journeyed|🛤️|2|Travelled from one place to another.|They journeyed across the plains.
+souvenirs|🛍️|2|Things kept as reminders of a trip.|The shop sold souvenirs.
+postcard|💌|1|A card sent by post without an envelope.|I sent a postcard.
+lantern|🏮|2|A lamp with a protective case.|A lantern lit the path.
+cabin|🛖|1|A small wooden hut.|We stayed in a log cabin.
+hostel|🏨|3|Cheap lodging for travellers.|They booked a hostel.
+hotel|🏩|1|A building where travellers pay to stay.|We stayed in a hotel.
+resort|🏖|2|A place people go for holidays.|The beach resort had a pool.

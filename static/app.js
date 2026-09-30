@@ -1,6 +1,6 @@
 const app = document.getElementById("app");
 const $streak = document.getElementById("streak");
-let words = [], today = "", setNo = 0;
+let words = [], theme = {}, today = "", setNo = 0;
 let gameScores = {};   // first-try correct counts per game for the current set
 
 const RANKS = [
@@ -8,6 +8,7 @@ const RANKS = [
   [2200, "Vocab Master", "🧙"], [4000, "Word Legend", "👑"], [8000, "Dictionary God", "⚡"],
 ];
 const POINTS = { meaning: [10, 3], picture: [10, 3], spell: [20, 5] };  // [first try, got there eventually]
+const LEVELS = { 1: "Easy ★", 2: "Medium ★★", 3: "Hard ★★★" };
 const GAME_NAMES = { meaning: "Word Match", picture: "Picture Match", spell: "Spell It" };
 
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
@@ -35,7 +36,8 @@ function setsDoneToday(s) { return s.day === today ? (s.done || 0) : 0; }
 async function fetchSet() {
   const s = load(); setNo = setsDoneToday(s);
   const r = await fetch(`/api/today?d=${today}&set=${setNo}`);
-  words = (await r.json()).words;
+  const data = await r.json();
+  words = data.words; theme = data.theme;
 }
 
 async function start() {
@@ -65,6 +67,7 @@ function home() {
       </div>
       <div class="row"><button class="${done ? "hot" : ""}" id="go">${done ? "⚡ Get 5 new words" : "▶ Start today's quest"}</button></div>
       <p class="small">${done ? "Nice! You've cleared " + done + " set" + (done > 1 ? "s" : "") + " today. Ready for more?" : "Next up: " + words.map(w => w.emoji).join(" ")}</p>
+      <div class="badge">${theme.emoji} Theme: ${theme.name}</div>
     </div>
     ${hist.length ? `<div class="card"><h2>🏅 Scoreboard</h2><div class="hist">
       ${hist.map(h => `<div><span>${h.date} · ${"⭐".repeat(h.stars)}</span><b>${h.pts} pts</b></div>`).join("")}</div></div>` : ""}`;
@@ -76,6 +79,7 @@ function dots(i, n) { return `<div class="dots">${Array.from({ length: n }, (_, 
 function learn(i) {
   const w = words[i];
   app.innerHTML = `${dots(i, words.length)}<div class="card">
+    <div class="badge">${theme.emoji} ${theme.name} · ${LEVELS[w.level]}</div>
     <div class="big-emoji">${w.emoji}</div><div class="word">${w.word}</div>
     <button class="speak" id="sp">🔊 Hear it</button>
     <p class="meaning">${w.meaning}</p><p class="example">“${w.example}”</p></div>

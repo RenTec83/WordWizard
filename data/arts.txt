@@ -1,0 +1,90 @@
+# Arts, Music & Words|🎨
+paint|🖌️|1|To cover a surface with colour.|We paint the fence.
+brush|🖌|1|A tool with bristles for painting.|She dipped the brush in blue.
+canvas|🖼️|2|A strong cloth for painting on.|The artist stretched a canvas.
+portrait|🧑‍🎨|2|A picture of a person.|The portrait showed a queen.
+landscape|🏞|2|A picture of the countryside.|The landscape showed hills.
+sketch|✏️|2|A quick, rough drawing.|He made a sketch of the tree.
+pencil|✏|1|A writing tool with a lead core.|Sharpen your pencil.
+crayon|🖍|1|A coloured wax stick for drawing.|The child used a crayon.
+palette|🎨|3|A board for mixing paints.|She mixed colours on her palette.
+sculptor|🗽|3|An artist who carves or shapes figures.|The sculptor carved marble.
+gallery|🖼|2|A place where art is displayed.|We visited the art gallery.
+masterpiece|🌟|3|An outstanding work of art.|The Mona Lisa is a masterpiece.
+imagination|🌈|2|The ability to picture new ideas.|Use your imagination.
+creative|✨|2|Having original ideas.|A creative story.
+music|🎵|1|Sounds arranged to please the ear.|We listened to music.
+melody|🎶|2|A tune.|The melody was sweet.
+rhythm|🥁|3|A regular beat in music.|Clap to the rhythm.
+harmony|🎼|3|Different notes played together pleasantly.|The choir sang in harmony.
+piano|🎹|1|A large keyboard instrument.|She played the piano.
+guitar|🎸|1|A stringed instrument played by plucking.|He strummed the guitar.
+violin|🎻|1|A small stringed instrument played with a bow.|She played the violin.
+trumpet|🎺|1|A brass instrument with a bright sound.|He blew the trumpet.
+saxophone|🎷|2|A curved brass instrument with a smooth sound.|The saxophone sounded mellow.
+drum|🥁|1|An instrument you hit with sticks.|He beat the drum.
+flute|🪈|1|A thin wind instrument.|She played the flute.
+banjo|🪕|2|A stringed instrument with a round body.|He plucked the banjo.
+harp|🎼|2|A large instrument with many strings.|The harp sounded heavenly.
+xylophone|🎵|3|An instrument with wooden bars struck by mallets.|She hit the xylophone.
+orchestra|🎻|2|A large group of musicians.|The orchestra played.
+choir|🎤|2|A group of singers.|The choir sang carols.
+concert|🎫|2|A live music performance.|We went to a concert.
+lyrics|🎤|2|The words of a song.|I know all the lyrics.
+composer|🎼|3|A person who writes music.|The composer wrote a symphony.
+symphony|🎶|3|A long piece of music for an orchestra.|The symphony had four parts.
+opera|🎭|3|A play in which all the words are sung.|The opera lasted three hours.
+theatre|🎭|2|A place where plays are performed.|We went to the theatre.
+stage|🎬|1|The platform where actors perform.|She walked onto the stage.
+actor|🎭|1|A person who performs in plays or films.|The actor forgot his line.
+audience|👏|2|People watching a show.|The audience applauded.
+applause|👏|3|Clapping to show approval.|Applause filled the hall.
+rehearse|📋|3|To practise a play or performance.|We rehearse every Friday.
+costume|🥷|2|Clothes worn for a part in a play.|Her costume was a fairy.
+puppet|🪆|2|A doll moved by hands or strings.|The puppet danced.
+magician|🪄|1|A person who does tricks.|The magician pulled a rabbit from a hat.
+circus|🎪|1|A travelling show of acrobats and clowns.|We saw the circus.
+clown|🤡|1|A funny performer with a painted face.|The clown juggled.
+juggle|🤹|2|To keep several objects in the air.|He can juggle three balls.
+acrobat|🤸‍♂️|3|A performer who does gymnastics.|The acrobat flipped.
+dancer|💃|1|A person who moves to music.|The dancer twirled.
+ballet|🩰|2|A graceful stage dance.|She learns ballet.
+film|🎞️|1|A moving picture story.|We watched a film.
+cinema|🍿|2|A place where films are shown.|We went to the cinema.
+director|🎬|2|The person who guides a film's making.|The director yelled "Action!"
+photograph|📸|1|A picture taken with a camera.|The photograph showed us smiling.
+animation|🎞|3|Drawings brought to life on screen.|Animation makes cartoons move.
+cartoon|📺|1|A humorous drawing or animated film.|We watched a cartoon.
+comic|📰|1|A magazine with picture stories.|He read a comic.
+novel|📕|2|A long story in a book.|She read a novel.
+poem|📝|1|A piece of writing arranged in lines with rhythm.|She wrote a poem.
+poet|🖋️|2|A person who writes poems.|The poet read aloud.
+rhyme|🎠|1|Words that end with the same sound.|Cat rhymes with hat.
+verse|📜|2|A group of lines in a poem or song.|Sing the first verse.
+story|📖|1|An account of imaginary or real events.|Tell me a story.
+author|✍️|1|A person who writes books.|The author signed my book.
+character|🦹|2|A person or animal in a story.|The character was brave.
+plot|🗺|3|The events that make up a story.|The plot had a twist.
+chapter|📑|1|A main section of a book.|Read chapter one.
+fiction|🧙‍♂️|2|Stories that are made up.|Fantasy is fiction.
+biography|📚|3|The story of someone's life.|She read a biography of Einstein.
+autobiography|🖋|3|The story of someone's life written by themselves.|The autobiography was funny.
+narrator|🎙|3|The person who tells a story.|The narrator read the tale.
+metaphor|🔗|3|Describing something as another thing, e.g. "time is a thief".|"The world is a stage" is a metaphor.
+simile|🧵|3|A comparison using like or as.|"Quick as a flash" is a simile.
+adjective|🔠|2|A word that describes a noun.|"Blue" is an adjective.
+adverb|🔡|3|A word that describes a verb.|"Quickly" is an adverb.
+noun|🔤|1|A word that names a person, place or thing.|"Dog" is a noun.
+verb|🏃‍♀️|1|A word that names an action.|"Run" is a verb.
+synonym|🔁|3|A word with the same meaning as another.|"Big" is a synonym of "large".
+antonym|↔️|3|A word with the opposite meaning.|"Hot" is an antonym of "cold".
+alphabet|🔤|1|The set of letters used in a language.|The alphabet has twenty-six letters.
+sentence|📝|1|A group of words that makes complete sense.|Start a sentence with a capital.
+paragraph|📄|2|A section of writing about one topic.|Indent each paragraph.
+dictionary|📘|1|A book of words and their meanings.|Look it up in the dictionary.
+vocabulary|📚|2|All the words a person knows.|Reading builds your vocabulary.
+grammar|✅|3|The rules for using a language.|Grammar helps you write correctly.
+punctuation|❗|3|Marks like full stops and commas.|Punctuation makes writing clear.
+apostrophe|’|3|A mark showing missing letters or possession.|Use an apostrophe in "don't".
+spelling|🔠|1|Putting letters in the correct order to form a word.|Practise your spelling.
+handwriting|🖊️|2|Writing done with a pen or pencil.|Her handwriting is neat.

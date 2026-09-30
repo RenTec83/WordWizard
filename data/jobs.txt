@@ -1,0 +1,85 @@
+# Jobs & Community|👷
+teacher|👩‍🏫|1|A person who teaches students.|The teacher wrote on the board.
+doctor|👨‍⚕️|1|A person who treats sick people.|The doctor examined me.
+nurse|🩺|1|A person trained to care for the sick.|The nurse took my temperature.
+farmer|🧑‍🌾|1|A person who grows crops or raises animals.|The farmer milked cows.
+baker|🥖|1|A person who makes bread.|The baker opened at dawn.
+butcher|🥩|2|A person who sells meat.|The butcher sliced the ham.
+chef|👨‍🍳|1|A professional cook.|The chef tossed the pizza.
+waiter|🍽|1|A person who serves food in a restaurant.|The waiter took our order.
+postman|📬|1|A person who delivers letters.|The postman knocked twice.
+firefighter|🚒|1|A person who puts out fires.|The firefighter climbed the ladder.
+police|👮|1|The people who keep order and catch criminals.|The police arrived quickly.
+detective|🕵|2|A person who investigates crimes.|The detective searched for clues.
+pilot|👨‍✈️|1|A person who flies an aircraft.|The pilot greeted the passengers.
+driver|🚌|1|A person who drives a vehicle.|The bus driver waved.
+mechanic|🔧|2|A person who repairs machines.|The mechanic fixed the car.
+plumber|🚰|2|A person who fixes pipes.|The plumber fixed the leaking tap.
+electrician|💡|3|A person who installs and repairs electrical equipment.|The electrician rewired the house.
+carpenter|🪚|2|A person who works with wood.|The carpenter built a table.
+builder|🏗️|1|A person who builds houses.|The builder laid the bricks.
+painter|🎨|1|A person who paints walls or pictures.|The painter painted the wall.
+gardener|🧑‍🌾|2|A person who looks after gardens.|The gardener planted roses.
+librarian|📚|2|A person who looks after a library.|The librarian stamped my book.
+scientist|👩‍🔬|1|A person who studies science.|The scientist did an experiment.
+astronaut|👩‍🚀|2|A person who travels in space.|The astronaut floated.
+journalist|📰|3|A person who writes for newspapers.|The journalist wrote a story.
+reporter|🎙️|2|A person who gathers news.|The reporter interviewed the mayor.
+photographer|📷|3|A person who takes photographs.|The photographer captured the sunset.
+artist|🧑‍🎨|1|A person who creates art.|The artist painted a portrait.
+musician|🎸|2|A person who plays music.|The musician played a tune.
+singer|🎤|1|A person who sings.|The singer had a lovely voice.
+athlete|🏅|2|A person skilled at sports.|The athlete trained daily.
+dentist|🦷|1|A person who treats teeth.|The dentist checked my teeth.
+vet|🐶|1|A doctor for animals.|The vet examined the puppy.
+lawyer|⚖️|2|A person who advises on the law.|The lawyer argued the case.
+judge|👨‍⚖️|2|A person who decides cases in court.|The judge gave a verdict.
+mayor|🏛|2|The leader of a town or city.|The mayor opened the fair.
+soldier|🎖|1|A person in the army.|The soldier saluted.
+sailor|⚓|1|A person who works on ships.|The sailor climbed the mast.
+engineer|🏗|2|A person who designs and builds machines or structures.|The engineer designed a bridge.
+architect|🏢|3|A person who designs buildings.|The architect drew the plans.
+accountant|🧾|3|A person who keeps financial records.|The accountant added the figures.
+banker|🏦|2|A person who works in a bank.|The banker counted the money.
+cashier|💳|2|A person who takes payment in a shop.|The cashier scanned the items.
+shopkeeper|🏪|2|A person who owns a shop.|The shopkeeper smiled.
+salesperson|🛍️|3|A person who sells things.|The salesperson showed us shoes.
+hairdresser|💇‍♀️|3|A person who cuts and styles hair.|The hairdresser trimmed my fringe.
+tailor|🧵|3|A person who makes clothes.|The tailor mended the coat.
+cobbler|👞|3|A person who repairs shoes.|The cobbler fixed my heel.
+blacksmith|🔨|3|A person who makes things from iron.|The blacksmith shaped a horseshoe.
+miner|⛏️|2|A person who digs for coal or metals.|The miner wore a lamp on his helmet.
+fisherman|🎣|2|A person who catches fish.|The fisherman cast his net.
+lifeguard|🏊‍♂️|2|A person who watches swimmers.|The lifeguard blew the whistle.
+paramedic|🚑|3|A person trained to give emergency medical care.|The paramedic helped the injured man.
+coach|🏋|1|A person who trains a team.|The coach shouted advice.
+manager|📊|2|A person in charge of a business or team.|The manager called a meeting.
+employee|👔|3|A person who works for a company.|Every employee has a badge.
+employer|🏢|3|A person or company that pays workers.|The employer offered a job.
+career|📈|2|A job you do for many years.|She has a career in medicine.
+profession|🎓|3|A job that needs special training.|Teaching is a noble profession.
+salary|💷|3|A fixed payment for a job.|He earns a good salary.
+interview|🤵|2|A meeting where someone is asked questions.|She had a job interview.
+teamwork|🤝|2|Working together as a group.|Teamwork makes the dream work.
+leader|🚩|1|A person who guides a group.|The team leader gave orders.
+neighbourhood|🏘|3|The area around where you live.|Our neighbourhood is friendly.
+village|🛖|1|A small group of houses in the countryside.|We live in a village.
+town|🏙|1|A place bigger than a village.|The town has a market.
+city|🌇|1|A large, important town.|The city was bustling.
+suburb|🏡|3|A residential area on the edge of a city.|They live in the suburbs.
+library|📚|1|A place where books are kept to borrow.|Return your books to the library.
+bakery|🥐|1|A shop that sells bread and cakes.|The bakery smelled great.
+pharmacy|💊|2|A shop that sells medicine.|The pharmacy was open.
+supermarket|🛒|2|A large shop that sells food and household items.|We shopped at the supermarket.
+post office|📮|2|A place where letters and parcels are sent.|The post office was busy.
+fire station|🚒|2|A building for firefighters.|The fire station has a siren.
+playground|🛝|1|An outdoor area with swings and slides.|Kids raced to the playground.
+park|🌳|1|A public green space.|We played in the park.
+zoo|🦓|1|A place where wild animals are kept for the public to see.|We saw lions at the zoo.
+aquarium|🐠|2|A place with fish and sea animals on show.|The aquarium had sharks.
+theatre|🎭|2|A place where plays are shown.|We saw a play at the theatre.
+cinema|🎦|2|A building where films are shown.|We sat in the cinema.
+stadium|🏟|2|A large arena for sports.|The stadium roared.
+volunteer|🙌|2|A person who works without pay.|Volunteers cleaned the beach.
+donate|🎁|2|To give money or goods to help others.|We donate to charity.
+community|👨‍👩‍👧|2|People living in one area.|The community held a fair.

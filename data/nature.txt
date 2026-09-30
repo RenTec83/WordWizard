@@ -1,0 +1,96 @@
+# Nature & Earth|🌍
+forest|🌲|1|A large area covered with trees.|Deer live in the forest.
+mountain|⛰️|1|A very high natural hill.|We hiked up the mountain.
+river|🏞️|1|A large stream of water flowing to the sea.|The river winds through the valley.
+lake|🏞|1|A large area of water surrounded by land.|We swam in the lake.
+island|🏝️|1|Land surrounded by water.|We sailed to a small island.
+beach|🏖️|1|A sandy or pebbly shore next to the sea.|We built a sandcastle on the beach.
+cave|🕳️|1|A large hollow place inside a hill or under the ground.|Bats slept in the cave.
+waterfall|🌊|1|Water falling from a height over rocks.|The waterfall roared.
+volcano|🌋|1|A mountain that can erupt with lava.|The volcano erupted.
+glacier|🧊|2|A large, slowly moving river of ice.|The glacier carved out a valley.
+canyon|🏜|2|A deep valley with steep sides.|The river carved the canyon.
+valley|🏞️|1|Low land between hills or mountains.|A village sat in the valley.
+meadow|🌼|2|A field of grass and wildflowers.|Cows grazed in the meadow.
+swamp|🐊|2|Wet, marshy land.|Frogs croaked in the swamp.
+marsh|🌾|2|Soft, wet ground with reeds.|Herons stalked through the marsh.
+prairie|🌾|2|A large flat area of grassland.|Bison roamed the prairie.
+savanna|🦁|2|Hot grassland with scattered trees.|Lions live on the savanna.
+tundra|🥶|3|A cold treeless region with frozen ground.|Reindeer graze on the tundra.
+rainforest|🌴|2|A thick, wet forest in a hot region.|Parrots screech in the rainforest.
+coral|🪸|2|Hard structures built by tiny sea animals, forming reefs.|Colourful fish swim among the coral.
+reef|🐠|2|A ridge of rock or coral near the sea's surface.|Divers explored the reef.
+tide|🌊|2|The regular rise and fall of the sea.|The tide washed away the sandcastle.
+wave|🌊|1|A moving ridge of water.|A wave crashed on the shore.
+current|➰|2|A steady flow of water or air.|The current carried the boat downstream.
+stream|🏞️|1|A small narrow river.|We crossed the stream on stones.
+pond|🐸|1|A small area of still water.|Ducks swam on the pond.
+puddle|☔|1|A small pool of rainwater.|He jumped in the puddle.
+soil|🌱|1|The top layer of earth where plants grow.|Seeds need rich soil.
+rock|🪨|1|The hard material that makes up the Earth's crust.|She climbed the rock.
+pebble|⚪|1|A small smooth stone.|He skipped a pebble on the water.
+boulder|🪨|2|A very large rock.|A boulder blocked the path.
+sand|⏳|1|Tiny grains of rock found on beaches and deserts.|Sand slipped through my fingers.
+mud|🟤|1|Wet, sticky soil.|We slid in the mud.
+tree|🌳|1|A tall plant with a trunk and branches.|A bird built a nest in the tree.
+branch|🌿|1|A part of a tree that grows out from the trunk.|The branch swayed.
+leaf|🍃|1|A flat green part of a plant.|A leaf floated down.
+root|🥕|1|The part of a plant that grows underground.|Roots soak up water.
+seed|🌰|1|The small part of a plant that can grow into a new one.|Plant the seed in soil.
+flower|🌸|1|The colourful part of a plant that makes seeds.|A flower opened at dawn.
+blossom|🌸|2|The flowers on a tree.|Cherry blossom fills the park.
+petal|🌺|2|One of the coloured parts of a flower.|A petal fell off.
+thorn|🌹|2|A sharp point on a plant stem.|The rose had a sharp thorn.
+cactus|🌵|1|A prickly desert plant.|A cactus stores water.
+mushroom|🍄|1|A fungus shaped like a small umbrella.|A mushroom grew under the tree.
+moss|🟩|2|A soft green plant that grows on damp ground.|Moss covered the stone.
+fern|🌿|2|A plant with feathery leaves and no flowers.|Ferns grew in the shade.
+bamboo|🎋|2|A tall, fast-growing woody grass.|Pandas eat bamboo.
+palm|🌴|1|A tree with large feathery leaves, found in warm places.|A palm tree shaded the beach.
+pine|🌲|2|An evergreen tree with needles.|The pine smelled fresh.
+oak|🌳|2|A big, strong tree that grows acorns.|The oak was hundreds of years old.
+acorn|🌰|2|The nut of an oak tree.|A squirrel buried an acorn.
+harvest|🌾|2|The gathering of crops.|The harvest was plentiful.
+crop|🌽|2|A plant grown for food.|Wheat is a major crop.
+orchard|🍎|2|A place where fruit trees are grown.|We picked apples in the orchard.
+garden|🌷|1|A piece of land where plants are grown.|She watered the garden.
+scarecrow|🧑‍🌾|2|A figure put in a field to frighten birds.|The scarecrow wore an old hat.
+ecology|♻️|3|The study of living things and their surroundings.|Ecology teaches us how forests work.
+environment|🌐|2|The natural world and the things around us.|We must protect the environment.
+conservation|🛡️|3|Protecting nature and wildlife.|Conservation saves rare animals.
+recycle|♻️|1|To process used materials so they can be used again.|We recycle paper.
+pollution|🏭|2|Harmful substances in the air, water or soil.|Pollution harms wildlife.
+drought|🏜️|3|A long period with no rain.|The drought dried up the river.
+flood|🌊|2|Too much water covering dry land.|The flood covered the fields.
+earthquake|🫨|2|A sudden, violent shaking of the ground.|The earthquake cracked the road.
+tsunami|🌊|3|A huge sea wave caused by an earthquake.|A tsunami struck the coast.
+avalanche|🏔️|3|A mass of snow sliding down a mountain.|An avalanche buried the trail.
+erupt|🌋|2|To burst out suddenly, like a volcano.|The volcano may erupt.
+lava|🔥|2|Hot melted rock from a volcano.|Lava flowed down the slope.
+magma|🌋|3|Hot melted rock beneath the Earth's surface.|Magma rises in a volcano.
+crust|🌍|3|The Earth's hard outer layer.|We live on the crust.
+erosion|🏜️|3|The wearing away of rock and soil by wind and water.|Erosion shaped the canyon.
+sediment|🪨|3|Tiny bits of rock and soil settled by water.|Sediment settled on the riverbed.
+mineral|💎|2|A natural substance found in rocks.|Quartz is a common mineral.
+crystal|🔮|2|A solid with a regular shape and flat sides.|The crystal sparkled.
+diamond|💎|2|A very hard, clear gemstone.|The diamond glittered.
+emerald|🟢|2|A bright green gemstone.|The queen wore an emerald ring.
+fossil|🦕|2|The preserved remains of an ancient living thing.|We found a fossil in the rock.
+climate|🌡️|2|The usual weather of a place over many years.|Egypt has a hot climate.
+temperate|🌤️|3|Mild, neither very hot nor very cold.|A temperate climate is pleasant.
+tropical|🌴|2|Belonging to the hot regions near the equator.|We swam in tropical waters.
+polar|🐧|2|Relating to the Earth's north or south pole.|Polar bears live in the Arctic.
+hemisphere|🌏|3|Half of the Earth.|Australia is in the southern hemisphere.
+latitude|🧭|3|Distance north or south of the equator.|Latitude tells how far north a place is.
+longitude|🗺️|3|Distance east or west on the Earth.|Longitude lines run north to south.
+biodiversity|🦋|3|The variety of living things in a place.|Rainforests have huge biodiversity.
+habitat|🏡|2|The natural home of a plant or animal.|The pond is a frog's habitat.
+organism|🔬|3|Any living thing.|A bacterium is a tiny organism.
+pollen|🌼|2|A fine powder made by flowers.|Bees carry pollen.
+germinate|🌱|3|To begin to grow from a seed.|Seeds germinate in warm soil.
+photosynthesis|🍃|3|How plants make food from sunlight.|Photosynthesis occurs in leaves.
+decompose|🍂|3|To rot and break down.|Leaves decompose into soil.
+fertile|🌾|3|Rich and able to grow plants well.|The river valley has fertile soil.
+barren|🏜|3|Too poor to support plants; empty.|The barren land had no trees.
+wilt|🥀|2|To droop because of lack of water.|The flowers began to wilt.
+sprout|🌱|1|To begin to grow.|Beans sprout in a few days.

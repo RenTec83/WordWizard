@@ -1,0 +1,80 @@
+# Sports & Games|🏅
+football|⚽|1|A game where two teams kick a ball to score goals.|We played football.
+basketball|🏀|1|A game where you shoot a ball through a hoop.|He scored at basketball.
+tennis|🎾|1|A game hit across a net with rackets.|She played tennis.
+baseball|⚾|1|A bat-and-ball game with bases.|He hit a baseball.
+volleyball|🏐|1|A game where teams hit a ball over a net.|We played volleyball on the beach.
+rugby|🏉|1|A team sport played with an oval ball.|Rugby is a tough sport.
+cricket|🏏|1|A bat-and-ball game with wickets.|They played cricket.
+golf|⛳|1|A game where you hit a ball into holes.|Dad plays golf.
+hockey|🏑|1|A game played with sticks and a puck or ball.|We play hockey on ice.
+badminton|🏸|1|A game hit across a net with a shuttlecock.|Badminton needs quick reflexes.
+bowling|🎳|1|A game rolling a ball to knock down pins.|We went bowling.
+boxing|🥊|1|A sport in which two people fight with gloves.|Boxing needs training.
+swimming|🏊|1|Moving through water using your arms and legs.|Swimming is great exercise.
+running|🏃‍♂️|1|Moving quickly on foot.|Running keeps you fit.
+cycling|🚴|1|Riding a bicycle.|Cycling is fun.
+skiing|⛷️|1|Sliding down snow on skis.|We went skiing.
+skating|⛸️|1|Gliding on ice or wheels.|Skating is fun.
+surfing|🏄|1|Riding a wave on a board.|He loves surfing.
+diving|🤿|2|Jumping into water headfirst.|Diving is graceful.
+archery|🏹|2|Shooting arrows at a target.|Archery needs a steady hand.
+fencing|🤺|3|Sport of fighting with thin swords.|Fencing is fast.
+gymnastics|🤸‍♀️|2|Exercises requiring strength and balance.|Gymnastics needs flexibility.
+wrestling|🤼|2|A sport where two people try to pin each other.|Wrestling needs strength.
+karate|🥋|2|A Japanese martial art.|She wears a karate belt.
+judo|🥋|2|A martial art where you throw your opponent.|He learns judo.
+marathon|🏃‍♀️|3|A very long running race of about 42 kilometres.|She ran a marathon.
+sprint|💨|2|A short, fast race.|He won the sprint.
+relay|🏁|2|A race in which team members run in turn.|We ran the relay.
+hurdle|🚧|2|A barrier that athletes jump over.|She cleared the hurdle.
+javelin|🎯|3|A spear thrown in a field event.|He threw the javelin.
+discus|🥏|3|A heavy disc thrown in athletics.|She threw the discus.
+athlete|🏃|2|A person who is good at sports.|The athlete trained hard.
+champion|🏆|1|A person who wins a competition.|She became the champion.
+coach|📣|1|A person who trains a team.|The coach blew a whistle.
+referee|🟨|2|An official who makes sure rules are followed.|The referee showed a yellow card.
+umpire|🧑‍⚖️|3|An official in tennis or cricket.|The umpire called the ball out.
+stadium|🏟️|2|A large building where sports are played.|The stadium was packed.
+trophy|🏆|1|A cup given to a winner.|He lifted the trophy.
+medal|🥇|1|A disc awarded for winning.|She won a gold medal.
+podium|🥉|3|A platform for winners.|The winners stood on the podium.
+team|👥|1|A group who play together.|Our team won.
+teammate|🤝|2|A member of your team.|My teammate passed the ball.
+opponent|🆚|2|A person you compete against.|She beat her opponent.
+score|📊|1|The number of points or goals.|The score was 3-2.
+goal|🥅|1|A net or point scored in a game.|He kicked a goal.
+penalty|⚽|2|A punishment for breaking rules in a game.|The referee awarded a penalty.
+tournament|🏆|3|A series of contests.|The tennis tournament lasted a week.
+league|📋|3|A group of teams that compete.|Our team leads the league.
+tactics|♟️|3|Plans to win a game.|The coach explained the tactics.
+strategy|🧩|3|A careful plan for winning.|Chess needs strategy.
+training|🏋️‍♂️|1|Practising to get better at something.|Training starts at six.
+practice|📝|1|Doing something repeatedly to improve.|Piano needs practice.
+warm-up|🤾|2|Gentle exercises done before a sport.|We did a warm-up.
+stretch|🧎|1|To extend your muscles.|Stretch before you run.
+helmet|🪖|1|Protective headwear.|Wear a bike helmet.
+gloves|🧤|1|Hand coverings.|Goalies wear gloves.
+racket|🏸|2|A bat with strings used in tennis.|The racket has strings.
+bat|🏏|1|A club used to hit a ball.|He swung the bat.
+net|🥅|1|A mesh used in sports like tennis and football.|The ball hit the net.
+whistle|📯|1|A small tube you blow into.|The coach blew the whistle.
+jersey|👕|2|A sports shirt.|Each player wore a jersey.
+chess|♟|1|A board game of strategy with kings and pawns.|We played chess.
+checkers|🔴|2|A board game with round pieces.|He won at checkers.
+puzzle|🧩|1|A game that tests your thinking.|We solved a jigsaw puzzle.
+dice|🎲|1|Small cubes with dots used in games.|Roll the dice.
+cards|🃏|1|A pack of numbered playing pieces.|We played cards.
+domino|🀄|2|A small tile used in a game.|Dominoes tumbled in a row.
+riddle|❓|2|A puzzle question with a clever answer.|Can you solve this riddle?
+maze|🌀|2|A network of paths that is hard to get out of.|The maze was tricky.
+arcade|🕹️|2|A place with coin-operated games.|We played at the arcade.
+joystick|🕹|3|A stick used to control a video game.|He gripped the joystick.
+level|🎮|1|A stage in a game.|She reached level ten.
+opponent|🤺|2|Someone who plays against you.|The opponent played well.
+victory|🥳|2|Winning a game.|The team celebrated their victory.
+defeat|😔|2|Losing a game.|The defeat was hard.
+triumph|🎉|3|A great win.|It was a triumph.
+compete|🏁|2|To try to win against others.|Athletes compete for gold.
+rival|⚔️|3|A person you compete against.|The two teams are rivals.
+sportsmanship|🤝|3|Fair and generous behaviour in sport.|He showed great sportsmanship.

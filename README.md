@@ -11,8 +11,14 @@ letter-unscramble spelling game. Flask backend, plain HTML/JS frontend, no datab
 (Port 5001 because macOS AirPlay uses 5000.) To test on a phone on the same Wi-Fi, change the
 last line of app.py to `app.run(host="0.0.0.0", port=5001)` and open `http://<mac-ip>:5001`.
 
-## Add words
-Edit `words.json` (fields: word, emoji, meaning, example). The daily set cycles through the list.
+## Words
+About 1,400 words in 15 themes, each with an easy/medium/hard level. Every 5-word set has one theme
+and a mix of difficulty (2 easy, 2 medium, 1 hard). Themes rotate through the day's sets.
+
+To add words, edit or add a file in `data/` (format: `word|emoji|level 1-3|meaning|example`, first line
+`# Theme name|emoji`), then rebuild `words.json` and commit both:
+
+    python tools/build_words.py
 
 ## Deploy to PythonAnywhere via GitHub
 1. Push this folder to a GitHub repo.

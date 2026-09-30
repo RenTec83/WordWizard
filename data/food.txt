@@ -1,0 +1,97 @@
+# Food & Cooking|🍳
+apple|🍎|1|A round fruit with red, green or yellow skin.|I ate a crunchy apple.
+banana|🍌|1|A long curved fruit with a yellow skin.|The monkey peeled a banana.
+strawberry|🍓|1|A small red fruit with seeds on the outside.|She dipped a strawberry in cream.
+watermelon|🍉|1|A big green fruit with red juicy flesh.|We ate watermelon at the picnic.
+pineapple|🍍|1|A tropical fruit with spiky skin.|Pineapple is sweet and juicy.
+grapes|🍇|1|Small round fruits that grow in bunches.|She ate a bunch of grapes.
+cherry|🍒|1|A small round red fruit with a stone.|A cherry sat on top of the cake.
+lemon|🍋|1|A sour yellow fruit.|Lemon juice is tangy.
+peach|🍑|1|A soft, fuzzy fruit with a large stone.|The peach was ripe.
+coconut|🥥|1|A large hard-shelled fruit with milk inside.|We drank coconut milk.
+avocado|🥑|2|A green fruit with creamy flesh and a large stone.|Mash the avocado on toast.
+tomato|🍅|1|A soft red fruit used as a vegetable.|Slice a tomato for the salad.
+carrot|🥕|1|An orange root vegetable.|Rabbits love a crunchy carrot.
+potato|🥔|1|A starchy vegetable that grows underground.|Mash the potato.
+broccoli|🥦|1|A green vegetable that looks like a tiny tree.|Eat your broccoli.
+corn|🌽|1|Yellow grains that grow on a cob.|We had corn on the cob.
+pepper|🌶️|1|A hot or sweet vegetable used in cooking.|The chilli pepper was spicy.
+onion|🧅|1|A round vegetable with a strong smell.|Chopping an onion makes you cry.
+garlic|🧄|2|A strong-smelling bulb used to flavour food.|Add a clove of garlic.
+mushroom|🍄|1|A fungus you can eat.|We fried a mushroom.
+cucumber|🥒|2|A long green vegetable, often in salads.|Cool cucumber slices refreshed us.
+bread|🍞|1|A baked food made from flour.|I toasted the bread.
+cheese|🧀|1|A food made from milk.|A mouse sniffed the cheese.
+butter|🧈|1|A soft yellow fat made from cream.|Spread the butter on toast.
+egg|🥚|1|The oval object laid by a hen.|We boiled an egg.
+milk|🥛|1|A white drink from cows.|Drink your milk.
+honey|🍯|1|A sweet golden syrup made by bees.|Honey is sticky and sweet.
+sugar|🍬|1|A sweet substance used to flavour food.|Add a spoon of sugar.
+salt|🧂|1|A white mineral used to season food.|Sprinkle salt on the chips.
+pancake|🥞|1|A flat round cake fried in a pan.|We flipped the pancake.
+waffle|🧇|1|A crisp batter cake with a grid pattern.|A waffle with syrup is my favourite.
+pizza|🍕|1|A flat baked bread with tomato and cheese.|We shared a pizza.
+sandwich|🥪|1|Two slices of bread with a filling.|She packed a sandwich.
+burger|🍔|1|A round patty in a bun.|He ate a burger.
+sausage|🌭|1|Minced meat in a long tube.|We grilled a sausage.
+noodles|🍜|1|Long thin strips of pasta.|Noodles slurped from the bowl.
+spaghetti|🍝|1|Long thin pasta.|Twirl the spaghetti on your fork.
+sushi|🍣|2|A Japanese dish of rice and raw fish.|Sushi is rolled in seaweed.
+dumpling|🥟|2|A small piece of dough filled with food.|The dumpling was steaming.
+curry|🍛|2|A spiced dish from India.|The curry was hot.
+soup|🍲|1|A liquid dish made by cooking food in water.|Hot soup warmed us.
+salad|🥗|1|A dish of raw vegetables.|We ate a fresh salad.
+popcorn|🍿|1|Corn that puffs up when heated.|We munched popcorn at the movie.
+cookie|🍪|1|A small sweet baked treat.|The cookie was chewy.
+cupcake|🧁|1|A small cake baked in a paper case.|A cupcake had pink icing.
+chocolate|🍫|1|A sweet made from cocoa.|Chocolate melts in your hand.
+doughnut|🍩|1|A ring-shaped fried cake.|The doughnut was sugary.
+icecream|🍦|1|A frozen creamy dessert.|The ice cream melted.
+lollipop|🍭|1|A sweet on a stick.|He licked a lollipop.
+jelly|🍮|1|A wobbly fruit dessert.|Jelly wobbled on the plate.
+pudding|🍰|2|A sweet, soft dessert.|We ate sticky toffee pudding.
+recipe|📖|2|Instructions for making a dish.|Follow the recipe.
+ingredient|🥣|2|One of the foods used to make a dish.|Flour is an ingredient of bread.
+bake|🧑‍🍳|1|To cook in an oven.|We bake bread on Sunday.
+fry|🍳|1|To cook in hot oil.|Fry the egg.
+boil|🫕|1|To cook in bubbling water.|Boil the potatoes.
+roast|🍗|2|To cook in an oven with dry heat.|We roast a chicken.
+grill|🥩|2|To cook over direct heat.|Grill the sausages.
+simmer|🥘|3|To cook gently just below boiling.|Let the sauce simmer.
+whisk|🥄|2|To beat quickly to mix in air.|Whisk the eggs.
+stir|🥣|1|To mix with a spoon.|Stir the soup.
+chop|🔪|1|To cut into pieces.|Chop the onions.
+slice|🍞|1|To cut into thin pieces.|Slice the bread.
+peel|🍊|1|To remove the skin.|Peel an orange.
+grate|🧀|2|To rub food on a rough surface to make shreds.|Grate the cheese.
+knead|🫓|3|To press and fold dough with your hands.|Knead the dough well.
+marinate|🍖|3|To soak food in a sauce before cooking.|Marinate the chicken overnight.
+delicious|😋|1|Tasting very good.|The cake was delicious.
+tasty|👅|1|Having a nice flavour.|A tasty snack.
+spicy|🥵|1|Having a hot, strong flavour.|The curry was spicy.
+sweet|🍬|1|Tasting of sugar.|The candy was sweet.
+sour|😖|1|Having a sharp acid taste.|Lemons are sour.
+bitter|🫚|2|Having a sharp, unpleasant taste.|Dark coffee tastes bitter.
+salty|🥨|1|Tasting of salt.|Pretzels are salty.
+crunchy|🥜|1|Making a crisp noise when chewed.|Crunchy peanuts.
+savoury|🥓|2|Salty or spicy rather than sweet.|Bacon is a savoury food.
+nutritious|🥗|3|Full of things that are good for your health.|Vegetables are nutritious.
+appetite|😋|3|A desire for food.|A long walk gave me an appetite.
+gourmet|🍷|3|Relating to high-quality food.|She ate a gourmet meal.
+cuisine|🍽|3|A style of cooking of a place.|Italian cuisine is famous.
+feast|🍗|2|A large, special meal.|The king held a feast.
+banquet|🎂|3|A grand formal meal.|A banquet was held for the guests.
+picnic|🧺|1|A meal eaten outdoors.|We had a picnic in the park.
+breakfast|🥣|1|The first meal of the day.|I had cereal for breakfast.
+lunch|🍱|1|The midday meal.|Lunch is at noon.
+dinner|🍽️|1|The main evening meal.|Dinner is ready!
+snack|🥨|1|A small bite to eat between meals.|An apple is a healthy snack.
+beverage|🧃|3|A drink.|Juice is a refreshing beverage.
+smoothie|🥤|2|A thick fruit drink.|She blended a smoothie.
+lemonade|🍹|2|A drink made from lemons and sugar.|Lemonade cooled us down.
+teapot|🫖|2|A pot for making tea.|Pour tea from the teapot.
+kettle|☕|2|A container for boiling water.|The kettle whistled.
+oven|🔥|1|A closed space for baking.|The oven is hot.
+spatula|🍴|3|A flat tool for flipping food.|Flip it with a spatula.
+ladle|🥄|3|A big spoon for serving soup.|She ladled soup into a bowl.
+colander|🥣|3|A bowl with holes used to drain food.|Drain pasta in a colander.

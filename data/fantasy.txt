@@ -1,0 +1,77 @@
+# Myths & Fantasy|🐉
+dragon|🐉|1|A fire-breathing monster in stories.|The dragon guarded gold.
+wizard|🧙|1|A man with magic powers.|The wizard cast a spell.
+witch|🧙‍♀️|1|A woman with magic powers.|The witch stirred her cauldron.
+fairy|🧚|1|A tiny magical creature with wings.|A fairy granted a wish.
+unicorn|🦄|1|A horse-like creature with one horn.|A unicorn galloped by.
+mermaid|🧜‍♀️|1|A sea creature with a woman's body and fish tail.|The mermaid sang.
+giant|🧌|1|A very huge person in stories.|The giant stomped.
+goblin|👺|1|A small, mischievous creature in stories.|The goblin hid the gold.
+ogre|👹|2|A cruel, man-eating giant in tales.|The ogre lived under the bridge.
+troll|🧌|2|A giant or dwarf in folklore.|A troll guarded the bridge.
+elf|🧝|1|A small magical person with pointy ears.|The elf made shoes.
+dwarf|⛏|2|A small strong person in tales who lives underground.|The dwarf mined gold.
+vampire|🧛|2|A creature that drinks blood.|The vampire hated garlic.
+zombie|🧟|1|A corpse brought back to life in stories.|The zombie shuffled.
+ghost|👻|1|The spirit of a dead person.|The ghost floated.
+skeleton|💀|1|The bones of a body.|A skeleton rattled.
+monster|👾|1|A scary imaginary creature.|The monster roared.
+phoenix|🐦‍🔥|3|A bird that bursts into flame and is reborn.|The phoenix rose from the ashes.
+griffin|🦅|3|A creature with an eagle's head and a lion's body.|The griffin guarded treasure.
+centaur|🐎|3|A creature that is half man, half horse.|The centaur galloped.
+minotaur|🐂|3|A monster with a bull's head and a man's body.|The minotaur lived in a maze.
+sphinx|🐈|3|A creature with a lion's body and a human head.|The sphinx asked a riddle.
+kraken|🦑|3|A giant sea monster.|The kraken rose from the deep.
+werewolf|🐺|2|A person who turns into a wolf.|The werewolf howled at the moon.
+genie|🧞|2|A spirit who grants wishes.|The genie granted three wishes.
+spell|✨|1|Words that make magic happen.|She cast a spell.
+potion|🧪|2|A magical drink.|The potion made him invisible.
+cauldron|🍲|2|A large pot used for cooking.|The witch's cauldron bubbled.
+broomstick|🧹|2|A witch's flying broom.|She flew on a broomstick.
+wand|🪄|1|A magic stick.|He waved his wand.
+crystal|🔮|2|A clear mineral, or a ball for fortune-telling.|The crystal ball glowed.
+amulet|📿|3|A charm worn to protect from harm.|The amulet gave luck.
+talisman|🧿|3|An object thought to bring luck.|She carried a talisman.
+scroll|📜|2|A rolled-up piece of paper.|The scroll held a secret.
+quest|🗡️|2|A long search for something.|The hero set out on a quest.
+dagger|🗡|2|A short, pointed knife.|The thief drew a dagger.
+shield|🛡️|1|A piece of armour held to block attacks.|The knight raised his shield.
+armour|🛡|2|Protective metal clothing.|The armour was heavy.
+castle|🏰|1|A big fortress.|The castle stood on a hill.
+tower|🗼|1|A tall, narrow building.|The princess waited in the tower.
+dungeon|⛓|2|A dark prison under a castle.|He was locked in the dungeon.
+kingdom|👑|2|A land ruled by a king or queen.|The kingdom was at peace.
+prince|🤴|1|A king's son.|The prince rescued her.
+princess|👸|1|A king's daughter.|The princess wore a crown.
+hero|🦸|1|A person admired for bravery.|The hero saved the town.
+villain|🦹|2|The wicked character in a story.|The villain plotted revenge.
+legend|📚|2|A traditional story.|The legend spoke of a hidden city.
+mythology|🏛|3|A collection of ancient stories about gods and heroes.|Greek mythology is thrilling.
+Zeus|⚡|2|The king of the Greek gods.|Zeus threw lightning bolts.
+Poseidon|🔱|3|The Greek god of the sea.|Poseidon carried a trident.
+Hercules|💪|3|A hero of Greek myth famous for his strength.|Hercules completed twelve labours.
+Odysseus|⛵|3|A Greek hero who took ten years to reach home.|Odysseus sailed the seas.
+Medusa|🐍|3|A monster with snakes for hair.|Medusa turned people to stone.
+Pegasus|🐴|3|A winged horse in Greek myth.|Pegasus soared through the clouds.
+Thor|🔨|2|The Norse god of thunder.|Thor swung his hammer.
+Odin|🪶|3|The chief god in Norse myth.|Odin ruled Asgard.
+Atlantis|🌊|3|A mythical island that sank into the sea.|Explorers searched for Atlantis.
+labyrinth|🌀|3|A complicated maze.|The labyrinth confused everyone.
+enchantment|✨|3|A magic spell or a feeling of delight.|The forest was full of enchantment.
+sorcery|🔮|3|The use of magic powers.|Sorcery was forbidden.
+prophecy|🔮|3|A prediction of the future.|The prophecy came true.
+curse|😈|2|Words that bring bad luck.|A curse fell on the castle.
+riddle|🤔|2|A puzzling question.|Solve the riddle to enter.
+treasure|🏴‍☠️|1|Hidden riches.|Pirates buried the treasure.
+magic|🎩|1|Mysterious power to make impossible things happen.|The magic trick amazed us.
+mystical|🌌|3|Having a mysterious, spiritual quality.|The mystical forest glowed.
+enormous|🏔|1|Very big.|The giant was enormous.
+invisible|🫥|2|Not able to be seen.|The cloak made him invisible.
+immortal|♾️|3|Living forever.|The gods are immortal.
+sacred|🕯|3|Holy or very important.|The temple was sacred.
+guardian|🐲|2|A protector.|A dragon was the guardian of the cave.
+warrior|🛡|2|A brave fighter.|The warrior charged.
+epic|📖|3|A long story about heroes.|Beowulf is an epic.
+folklore|📚|3|Traditional stories of a people.|Folklore is passed down.
+fable|🦊|2|A short story with a moral.|The fable taught honesty.
+moral|🧭|2|A lesson from a story.|The moral was to be kind.

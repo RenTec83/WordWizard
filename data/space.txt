@@ -1,0 +1,89 @@
+# Space & Sky|🚀
+sun|☀️|1|The star at the centre of our solar system.|The sun warms the Earth.
+moon|🌙|1|The natural satellite that circles the Earth.|The moon glowed at night.
+star|⭐|1|A ball of burning gas that shines in the night sky.|A star twinkled above.
+planet|🪐|1|A large round world that circles a star.|Earth is a planet.
+rocket|🚀|1|A vehicle that launches into space.|The rocket blasted off.
+comet|☄️|1|An icy ball that streaks through space with a glowing tail.|A comet lit up the night sky.
+meteor|🌠|2|A rock from space that burns up in the air, a shooting star.|We saw a meteor flash by.
+asteroid|🪨|2|A small rocky body that orbits the Sun.|An asteroid zoomed past Earth.
+satellite|🛰️|2|An object that circles a planet.|The satellite sends TV signals.
+universe|🌌|2|Everything that exists in space.|The universe is enormous.
+alien|👽|1|A creature from another world.|The alien landed its spaceship.
+spaceship|🛸|1|A craft that travels through space.|The spaceship landed on Mars.
+telescope|🔭|2|A tool for viewing faraway things.|She looked at Saturn through the telescope.
+crater|🕳️|2|A bowl-shaped hole made by an impact or volcano.|The moon is covered in craters.
+lunar|🌚|2|Relating to the Moon.|A lunar eclipse happens at night.
+solar|🌞|2|Relating to the Sun.|Solar panels use sunlight.
+Mars|🔴|1|The red planet.|Mars has a rusty red colour.
+Jupiter|🟠|1|The biggest planet in our solar system.|Jupiter has a giant red spot.
+Saturn|🪐|1|The planet famous for its rings.|Saturn's rings are made of ice.
+Neptune|🔵|2|The eighth planet, a cold blue world.|Neptune is very far from the Sun.
+Venus|🟡|2|The hottest planet, covered in thick clouds.|Venus is called the evening star.
+Mercury|⚪|2|The smallest planet and closest to the Sun.|Mercury races around the Sun.
+Earth|🌍|1|The planet we live on.|Earth is our home.
+sky|🌤️|1|The space above us where we see clouds and stars.|The sky turned pink at sunset.
+cloud|☁️|1|A white or grey mass of water droplets in the sky.|A cloud drifted by.
+rainbow|🌈|1|An arc of colours in the sky after rain.|A rainbow appeared after the shower.
+lightning|⚡|1|A bright flash of electricity in a storm.|Lightning lit the sky.
+thunder|🌩️|1|The loud rumbling sound after lightning.|Thunder shook the windows.
+orbit|🛰️|2|The curved path of one object around another.|The Moon is in orbit around Earth.
+gravity|🍏|2|The force that pulls things toward each other.|Gravity keeps us on the ground.
+weightless|🧑‍🚀|2|Having no feeling of weight, floating.|Astronauts feel weightless.
+astronomy|🔭|3|The scientific study of space and the objects in it.|She loves astronomy.
+astronomer|🧑‍🔬|3|A scientist who studies space.|The astronomer discovered a comet.
+cosmos|🌌|3|The universe seen as an orderly whole.|We wonder about the cosmos.
+nebula|🌫️|3|A huge cloud of gas and dust in space where stars form.|The nebula glowed in pink and blue.
+supernova|💥|3|A huge explosion when a star dies.|A supernova outshines a whole galaxy.
+black hole|⚫|3|A place in space where gravity is so strong that not even light escapes.|Nothing escapes a black hole.
+gravitational|🍎|3|Relating to gravity.|Gravitational pull keeps planets in orbit.
+atmosphere|🌫️|3|The layer of gases around a planet.|Earth's atmosphere protects us.
+stratosphere|🎈|3|A high layer of Earth's atmosphere above the clouds.|Weather balloons rise into the stratosphere.
+exoplanet|🪐|3|A planet that orbits a star outside our solar system.|Scientists found a new exoplanet.
+mission|📋|2|An important task, such as a space trip.|The mission lasts six months.
+launch|🚀|1|To send something up into the air or space.|They launch the rocket at dawn.
+landing|🛬|1|Coming down to the ground after a flight.|The landing was smooth.
+spacesuit|🧑‍🚀|1|A protective outfit worn in space.|The astronaut zipped up her spacesuit.
+helmet|⛑️|1|A hard hat that protects the head.|Wear a helmet when you ride.
+oxygen|💨|2|The gas we need to breathe.|Astronauts carry oxygen tanks.
+vacuum|🫙|2|A space with no air or matter in it.|Space is nearly a vacuum.
+eclipse|🌘|2|When the Moon or Earth blocks the Sun's light.|We watched the eclipse.
+horizon|🌇|2|The line where the sky seems to meet the ground.|The sun sank below the horizon.
+sunrise|🌄|1|The time when the sun comes up.|We watched the sunrise.
+sunset|🌆|1|The time when the sun goes down.|The sunset was orange and pink.
+twilight|🌃|2|The soft light just after the sun sets.|Bats come out at twilight.
+midnight|🕛|1|Twelve o'clock at night.|The clock struck midnight.
+aurora|🌌|3|Colourful lights in the polar sky.|The aurora danced above the snow.
+solstice|📅|3|The longest or shortest day of the year.|The summer solstice is the longest day.
+equinox|⚖️|3|A day when day and night are the same length.|Day and night are equal at the equinox.
+constellation|✨|3|A group of stars that makes a pattern.|Orion is a well-known constellation.
+zodiac|♈|3|A band of sky with twelve star signs.|The zodiac has twelve signs.
+galaxy|🌌|2|A huge system of stars, gas and dust.|The Milky Way is our galaxy.
+light-year|💡|3|The distance light travels in one year.|A light-year is about nine trillion kilometres.
+rover|🚙|2|A vehicle that explores other planets.|The rover drove across Mars.
+probe|🤖|3|An unmanned spacecraft that explores space.|A probe flew past Jupiter.
+module|🧩|3|A separate unit of a spacecraft.|The landing module touched down.
+countdown|⏱️|2|Counting backwards to zero.|The countdown began at ten.
+thrust|💨|3|The forward force pushing a rocket.|The engines produced great thrust.
+trajectory|↗️|3|The path an object takes through the air or space.|The rocket's trajectory was perfect.
+propulsion|🔥|3|The force that drives something forward.|Rockets use propulsion to fly.
+telescopic|🔭|3|Able to see distant things clearly.|A telescopic lens brought the moon closer.
+cosmic|✨|3|Relating to the universe.|Cosmic dust floats in space.
+celestial|🌟|3|Relating to the sky or heavens.|Stars and planets are celestial bodies.
+interstellar|🌌|3|Between the stars.|Interstellar travel takes ages.
+tide|🌊|2|The daily rise and fall of the sea caused by the Moon.|The tide came in.
+season|🍂|1|One of the four parts of the year.|Autumn is my favourite season.
+forecast|🌦️|2|A report predicting the weather.|The forecast promises sunshine.
+cloudy|🌥️|1|Covered with clouds.|It was a cloudy morning.
+breeze|🍃|1|A gentle, light wind.|A cool breeze blew.
+gale|🌬️|2|A very strong wind.|A gale rattled the shutters.
+tornado|🌪️|2|A violent spinning column of wind.|The tornado tore across the field.
+hail|🧊|2|Balls of ice that fall from the sky.|Hail dented the car.
+drizzle|🌦️|2|Very light, fine rain.|A soft drizzle fell.
+fog|🌁|1|Thick cloud near the ground that is hard to see through.|Fog covered the road.
+humid|💦|2|Damp and sticky in the air.|The jungle air was humid.
+meteorologist|📺|3|A scientist who studies weather.|The meteorologist predicted snow.
+precipitation|🌧️|3|Water falling from the sky as rain, snow or hail.|Precipitation was heavy last night.
+evaporation|♨️|3|Turning from liquid into vapour.|Evaporation dries the puddles.
+condensation|💧|3|Water vapour turning into liquid droplets.|Condensation formed on the cold glass.
+barometer|🌡️|3|An instrument that measures air pressure.|The barometer dropped before the storm.

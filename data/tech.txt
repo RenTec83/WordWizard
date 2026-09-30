@@ -1,0 +1,88 @@
+# Science & Technology|🔬
+computer|💻|1|A machine that stores and processes information.|I use a computer for homework.
+keyboard|⌨️|1|A set of keys used to type into a computer.|He typed on the keyboard.
+mouse|🖱️|1|A device you move to control a computer's pointer.|She clicked the mouse.
+screen|🖥️|1|The flat display of a computer or TV.|The screen went dark.
+printer|🖨️|1|A machine that prints words and pictures on paper.|The printer ran out of ink.
+camera|📷|1|A device that takes photographs.|She took a photo with her camera.
+battery|🔋|1|A container that stores electric power.|The battery ran flat.
+magnet|🧲|1|A piece of metal that attracts iron.|The magnet picked up the pin.
+lightbulb|💡|1|A glass bulb that gives off light.|The lightbulb flickered.
+telephone|☎️|1|A device for talking to people far away.|The telephone rang.
+television|📺|1|A device for watching moving pictures.|We watched television.
+radio|📻|1|A device that receives sound broadcast through the air.|Music played on the radio.
+robot|🤖|1|A machine that does tasks automatically.|A robot vacuumed the floor.
+engine|🚗|2|A machine that makes things move.|The engine roared.
+motor|⚙️|2|A machine that turns power into movement.|The toy has an electric motor.
+wheel|🛞|1|A round object that turns on an axle.|The wheel spun.
+lever|🪝|2|A bar that moves on a point to lift something.|A lever lifts heavy stones.
+pulley|🏗️|3|A wheel with a rope used to lift loads.|A pulley raised the bucket.
+gear|⚙|2|A toothed wheel that moves other parts.|The gears turned smoothly.
+circuit|🔌|3|A closed path that electricity flows through.|The circuit powers the lamp.
+electricity|⚡|2|A form of energy used to light and power things.|Electricity powers our homes.
+current|🔋|3|The flow of electric charge.|An electric current passed through the wire.
+wire|🧵|1|A thin metal thread that carries electricity.|A wire connected the lamp.
+voltage|🔌|3|The force that pushes electricity through a circuit.|Batteries provide low voltage.
+laboratory|🧪|2|A room where scientific tests are done.|The laboratory smelled of chemicals.
+experiment|🔬|2|A scientific test to discover something.|We did an experiment on plants.
+scientist|👩‍🔬|1|A person who studies science.|The scientist wore a lab coat.
+microscope|🔬|2|An instrument for viewing very small things.|Cells are visible under a microscope.
+chemical|⚗️|2|A substance made in or used in chemistry.|Mix the chemicals carefully.
+element|⚛️|3|A basic substance, like oxygen or gold.|Gold is an element.
+atom|⚛|3|The tiny building block of all matter.|Everything is made of atoms.
+molecule|🧫|3|A group of atoms joined together.|A water molecule has two hydrogens.
+liquid|💧|1|A substance that flows, like water.|Water is a liquid.
+solid|🧊|1|A substance with a fixed shape, like ice.|Ice is a solid.
+gas|☁|2|A substance that spreads out, like air.|Steam is a gas.
+melt|🫠|1|To change from solid to liquid.|Ice will melt in the sun.
+freeze|🥶|1|To turn into ice.|Water will freeze in the cold.
+boil|♨|1|To heat a liquid until it bubbles.|Boil the water for pasta.
+reaction|💥|3|A change when substances combine.|Vinegar and soda cause a reaction.
+friction|🤲|3|The rubbing force that slows moving things.|Friction warms your hands.
+velocity|🏎️|3|Speed in a certain direction.|The car's velocity increased.
+momentum|🎳|3|The force of a moving object.|The rolling ball had a lot of momentum.
+pressure|🫧|3|The force pressing on something.|Air pressure filled the tyre.
+force|👊|2|A push or a pull.|Force is needed to move a box.
+energy|🔥|2|The power to do work.|Food gives us energy.
+solar|☀|2|Powered by the Sun.|Solar panels make electricity.
+wind turbine|🌬|3|A machine that turns wind into electricity.|The turbine spun.
+nuclear|☢️|3|Relating to the energy from atoms.|Nuclear power stations make electricity.
+fuel|⛽|2|A material burned to produce heat or power.|The car needs fuel.
+petrol|🛢|2|Fuel used in cars.|We filled the tank with petrol.
+software|💾|2|Programs that run on a computer.|The software installed quickly.
+hardware|🖲|3|The physical parts of a computer.|Keyboards and screens are hardware.
+program|👨‍💻|2|A set of instructions for a computer.|He wrote a program.
+code|🧑‍💻|2|Instructions written for a computer.|She learned to code.
+algorithm|🧮|3|A set of steps for solving a problem.|A recipe is like an algorithm.
+password|🔐|2|A secret word that lets you in.|Keep your password safe.
+internet|🌐|2|A worldwide network of computers.|I searched the internet.
+website|🕸|2|A collection of pages on the internet.|The website has games.
+email|📧|1|A message sent by computer.|I got an email from my teacher.
+download|⬇️|2|To copy a file from the internet to your device.|Download the app.
+upload|⬆️|2|To send a file from your device to the internet.|Upload your photo.
+database|🗃️|3|An organised store of information on a computer.|The library keeps a database of books.
+virus|🪲|2|A harmful program that can damage a computer.|Antivirus software stops a virus.
+drone|🛸|2|An aircraft with no pilot, flown by remote control.|A drone filmed the field.
+satellite|📡|2|A machine that circles the Earth sending signals.|A satellite beamed the signal.
+antenna|📡|3|A device for sending or receiving radio waves.|The TV needs a new antenna.
+laser|🔦|3|A strong, narrow beam of light.|A laser cut the metal.
+hologram|🌈|3|A 3D image made with light.|A hologram floated in the air.
+prototype|🧪|3|The first model of a new invention.|The engineer tested the prototype.
+blueprint|📐|3|A detailed plan for building something.|The blueprint showed every room.
+engineer|👷|2|A person who designs and builds machines.|The engineer built a bridge.
+inventor|🧑‍🔧|2|A person who creates something new.|The inventor made a flying machine.
+discovery|🔍|2|Finding something new.|Penicillin was a great discovery.
+theory|📝|3|An idea that explains something, based on evidence.|Einstein proposed a theory.
+hypothesis|❓|3|An idea that you can test with an experiment.|Our hypothesis was that plants need light.
+evidence|🧾|3|Facts that prove or show something.|Fossils are evidence of the past.
+observation|👀|3|Carefully watching to learn something.|Her observation was recorded.
+measurement|📏|2|A number that says the size or amount of something.|Take a measurement with a ruler.
+thermometer|🌡|2|An instrument that measures temperature.|The thermometer showed 20 degrees.
+barometer|⏲|3|An instrument that measures air pressure.|The barometer fell.
+telescope|🔭|2|An instrument for looking at faraway objects.|Stars looked bigger in the telescope.
+periscope|🔍|3|A tube with mirrors for seeing over obstacles.|The submarine raised its periscope.
+X-ray|🩻|2|A picture of the inside of the body.|An X-ray showed the broken bone.
+genetics|🧬|3|The study of how traits pass from parents to children.|Genetics explains eye colour.
+biology|🧬|3|The study of living things.|In biology we dissect a flower.
+chemistry|⚗|3|The study of substances and how they react.|Chemistry class was fun.
+physics|🪀|3|The science of matter, energy and forces.|Physics explains how things move.

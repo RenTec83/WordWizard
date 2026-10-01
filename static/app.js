@@ -1,24 +1,37 @@
 const app = document.getElementById("app");
 const $streak = document.getElementById("streak");
-let words = [], theme = {}, today = "", setNo = 0;
+const $who = document.getElementById("who");
+let words = [], theme = {}, today = "", user = "", profile = null, restarted = false;
 let gameScores = {};   // first-try correct counts per game for the current set
 
 const RANKS = [
   [0, "Rookie", "🥚"], [200, "Word Scout", "🔍"], [600, "Word Ninja", "🥷"], [1200, "Lexicon Knight", "⚔️"],
-  [2200, "Vocab Master", "🧙"], [4000, "Word Legend", "👑"], [8000, "Dictionary God", "⚡"],
+  [2200, "Vocab Master", "🧙", ], [4000, "Word Legend", "👑"], [8000, "Dictionary God", "⚡"],
 ];
 const POINTS = { meaning: [10, 3], picture: [10, 3], spell: [20, 5] };  // [first try, got there eventually]
 const LEVELS = { 1: "Easy ★", 2: "Medium ★★", 3: "Hard ★★★" };
-const GAME_NAMES = { meaning: "Word Match", picture: "Picture Match", spell: "Spell It" };
 
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const pad = n => String(n).padStart(2, "0");
 const fmt = d => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+const esc = t => String(t).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const say = t => { try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(t); u.rate = .85; speechSynthesis.speak(u); } catch (e) {} };
-const load = () => { try { return JSON.parse(localStorage.getItem("ww") || "{}"); } catch (e) { return {}; } };
-const save = s => { try { localStorage.setItem("ww", JSON.stringify(s)); } catch (e) {} };
 const rankIdx = xp => RANKS.reduce((r, x, i) => xp >= x[0] ? i : r, 0);
-function showStreak() { const s = load(); $streak.textContent = s.streak ? `🔥 ${s.streak}` : ""; }
+
+// only the player's name lives in the browser; everything else is stored on the server
+const store = {
+  get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} },
+};
+
+async function api(path, body) {
+  const r = await fetch(path, body ? { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) } : {});
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok) throw Object.assign(new Error(data.error || "Something went wrong"), { status: r.status });
+  return data;
+}
+
+function showHeader() { $who.textContent = user ? `👤 ${user}` : ""; $streak.textContent = profile && profile.streak ? `🔥 ${profile.streak}` : ""; }
 
 function confetti(n, pool) {
   for (let i = 0; i < n; i++) {
@@ -30,48 +43,75 @@ function confetti(n, pool) {
   }
 }
 
-// how many sets the child has already finished today = index of the next set to play
-function setsDoneToday(s) { return s.day === today ? (s.done || 0) : 0; }
+// ---- players -------------------------------------------------------------
+function loginScreen(msg) {
+  const known = store.get("wq_players", []);
+  app.innerHTML = `<div class="card"><div class="hero">🧙‍♂️</div><h1>Who's playing?</h1>
+    <p class="small">Type your player name to start or to continue where you left off.</p>
+    <input id="nm" class="field" maxlength="20" autocomplete="off" autocapitalize="words" placeholder="Your name">
+    <div class="msg bad" id="err">${msg ? esc(msg) : ""}</div>
+    <div class="row"><button id="go">Let's go! ▶</button></div>
+    ${known.length ? `<p class="small">Players on this device:</p><div class="row">${known.map(n => `<button class="alt chip" data-n="${esc(n)}">👤 ${esc(n)}</button>`).join("")}</div>` : ""}</div>`;
+  const input = document.getElementById("nm");
+  const go = n => signIn(n).catch(e => loginScreen(e.message));
+  document.getElementById("go").onclick = () => go(input.value);
+  input.onkeydown = e => { if (e.key === "Enter") go(input.value); };
+  app.querySelectorAll(".chip").forEach(b => b.onclick = () => go(b.dataset.n));
+}
 
-async function fetchSet() {
-  const s = load(); setNo = setsDoneToday(s);
-  const r = await fetch(`/api/today?d=${today}&set=${setNo}`);
-  const data = await r.json();
-  words = data.words; theme = data.theme;
+async function signIn(name) {
+  const res = await api("/api/login", { username: name, d: today });
+  user = res.profile.name; profile = res.profile;
+  store.set("wq_user", user);
+  store.set("wq_players", [user, ...store.get("wq_players", []).filter(n => n.toLowerCase() !== user.toLowerCase())].slice(0, 8));
+  await loadSet(); showHeader(); home(res.new);
+}
+
+async function loadSet() {
+  const r = await api(`/api/set?u=${encodeURIComponent(user)}&d=${today}`);
+  words = r.words; theme = r.theme; restarted = r.restarted; profile.doneToday = r.doneToday;
 }
 
 async function start() {
   today = fmt(new Date());
-  showStreak();
-  await fetchSet();
-  home();
+  const saved = store.get("wq_user", "");
+  if (!saved) return loginScreen();
+  try { await signIn(saved); } catch (e) { loginScreen(e.status ? "" : "Can't reach the server. Check your connection."); }
 }
 
-function home() {
-  const s = load(), xp = s.xp || 0, ri = rankIdx(xp), next = RANKS[ri + 1];
+function switchPlayer() { user = ""; profile = null; showHeader(); loginScreen(); }
+
+function home(isNew) {
+  const p = profile, xp = p.xp, ri = rankIdx(xp), next = RANKS[ri + 1];
   const pct = next ? Math.round((xp - RANKS[ri][0]) / (next[0] - RANKS[ri][0]) * 100) : 100;
-  const done = setsDoneToday(s);
-  const hist = (s.history || []).slice(-5).reverse();
+  const done = p.doneToday;
+  const unlocked = p.achievements.filter(a => a.unlocked).length;
   app.innerHTML = `
+    ${isNew ? `<div class="card"><h2>👋 Welcome, ${esc(user)}!</h2><p class="small">Your own profile is ready. Learn words, earn XP and collect badges.</p></div>` : ""}
+    ${restarted ? `<div class="card"><h2>🎓 You've learned every word!</h2><p class="small">Starting a brand-new round. Words will repeat now, but you're a word master!</p></div>` : ""}
     <div class="card"><div class="hero">${RANKS[ri][2]}</div>
       <div class="rank">${RANKS[ri][1]}</div>
       <div class="xpbar"><i style="width:${pct}%"></i></div>
       <div class="small">${xp} XP ${next ? `· ${next[0] - xp} XP to <b>${next[1]}</b>` : "· MAX RANK!"}</div>
       <div class="stats">
-        <div class="stat"><b>🔥 ${s.streak || 0}</b><span>Day streak</span></div>
-        <div class="stat"><b>${s.wordsLearned || 0}</b><span>Words learned</span></div>
-        <div class="stat"><b>${s.perfect || 0}</b><span>Flawless sets</span></div>
-        <div class="stat"><b>${s.setsDone || 0}</b><span>Quests done</span></div>
-        <div class="stat"><b>${s.best || 0}</b><span>Best set score</span></div>
+        <div class="stat"><b>🔥 ${p.streak}</b><span>Day streak</span></div>
+        <div class="stat"><b>${p.wordsLearned}</b><span>Words learned</span></div>
+        <div class="stat"><b>${p.perfect}</b><span>Flawless sets</span></div>
+        <div class="stat"><b>${p.setsDone}</b><span>Quests done</span></div>
+        <div class="stat"><b>${p.best}</b><span>Best set score</span></div>
         <div class="stat"><b>${done}</b><span>Sets today</span></div>
       </div>
       <div class="row"><button class="${done ? "hot" : ""}" id="go">${done ? "⚡ Get 5 new words" : "▶ Start today's quest"}</button></div>
       <p class="small">${done ? "Nice! You've cleared " + done + " set" + (done > 1 ? "s" : "") + " today. Ready for more?" : "Next up: " + words.map(w => w.emoji).join(" ")}</p>
       <div class="badge">${theme.emoji} Theme: ${theme.name}</div>
     </div>
-    ${hist.length ? `<div class="card"><h2>🏅 Scoreboard</h2><div class="hist">
-      ${hist.map(h => `<div><span>${h.date} · ${"⭐".repeat(h.stars)}</span><b>${h.pts} pts</b></div>`).join("")}</div></div>` : ""}`;
-  document.getElementById("go").onclick = async () => { if (done) await fetchSet(); gameScores = {}; learn(0); };
+    <div class="card"><h2>🎖️ Badges <span class="small">${unlocked}/${p.achievements.length}</span></h2>
+      <div class="ach">${p.achievements.map(a => `<div class="a ${a.unlocked ? "" : "locked"}" title="${esc(a.desc)}"><i>${a.unlocked ? a.emoji : "🔒"}</i><span>${esc(a.name)}</span><small>${esc(a.desc)}</small></div>`).join("")}</div></div>
+    ${p.history.length ? `<div class="card"><h2>🏅 Scoreboard</h2><div class="hist">
+      ${p.history.slice().reverse().map(h => `<div><span>${h.date} · ${"⭐".repeat(h.stars)}</span><b>${h.pts} pts</b></div>`).join("")}</div></div>` : ""}
+    <div class="row"><button class="alt" id="sw">👤 Switch player</button></div>`;
+  document.getElementById("go").onclick = () => { gameScores = {}; learn(0); };
+  document.getElementById("sw").onclick = switchPlayer;
 }
 
 function dots(i, n) { return `<div class="dots">${Array.from({ length: n }, (_, k) => k === i ? "<b>●</b>" : "○").join("")}</div>`; }
@@ -205,30 +245,32 @@ function spell(i, firstTries) {
   draw();
 }
 
-function finish() {
+async function finish() {
   const total = Object.values(gameScores).reduce((a, g) => a + g.pts, 0);
+  const oldRank = rankIdx(profile.xp);
+  let res;
+  try {
+    res = await api("/api/complete", { username: user, d: today, pts: total,
+      scores: { meaning: gameScores.meaning.firstTry, picture: gameScores.picture.firstTry, spell: gameScores.spell.firstTry } });
+  } catch (e) {
+    app.innerHTML = `<div class="card"><h2>😕 Couldn't save your score</h2><p class="small">${esc(e.message)}</p>
+      <div class="row"><button id="rt">Try again</button></div></div>`;
+    document.getElementById("rt").onclick = finish;
+    return;
+  }
+  profile = res.profile; showHeader();
   const firstTry = Object.values(gameScores).reduce((a, g) => a + g.firstTry, 0), maxFT = words.length * 3;
-  const stars = firstTry >= maxFT - 1 ? 3 : firstTry >= maxFT * .6 ? 2 : 1;
-  const s = load(), oldRank = rankIdx(s.xp || 0);
-  const y = new Date(); y.setDate(y.getDate() - 1);
-  if (s.last !== today) s.streak = s.last === fmt(y) ? (s.streak || 0) + 1 : 1;
-  s.last = today;
-  s.day = today; s.done = setsDoneToday(s) + 1;
-  s.xp = (s.xp || 0) + total; s.wordsLearned = (s.wordsLearned || 0) + words.length;
-  s.setsDone = (s.setsDone || 0) + 1; s.best = Math.max(s.best || 0, total);
-  if (firstTry === maxFT) s.perfect = (s.perfect || 0) + 1;
-  s.history = (s.history || []).concat({ date: today, pts: total, stars }).slice(-20);
-  save(s); showStreak();
-  const newRank = rankIdx(s.xp), up = newRank > oldRank;
+  const newRank = rankIdx(profile.xp), up = newRank > oldRank, stars = res.stars;
   app.innerHTML = `<div class="card"><div class="hero">${stars === 3 ? "👑" : "🎁"}</div><h1>Quest complete!</h1>
     <div class="stars">${"⭐".repeat(stars)}</div>
     <div class="big-score">${total} XP</div>
     <p class="small">${firstTry} of ${maxFT} answers right on the first try</p>
     ${up ? `<p class="rankup">🚀 RANK UP! You are now a ${RANKS[newRank][2]} ${RANKS[newRank][1]}!</p>` : ""}
+    ${res.newAchievements.length ? `<h2>🎖️ New badge${res.newAchievements.length > 1 ? "s" : ""}!</h2><div class="ach">${res.newAchievements.map(a => `<div class="a"><i>${a.emoji}</i><span>${esc(a.name)}</span><small>${esc(a.desc)}</small></div>`).join("")}</div>` : ""}
     <p class="meaning">Words mastered:<br><b>${words.map(w => w.emoji + " " + w.word).join("<br>")}</b></p>
     <div class="row"><button id="hm">🏅 Scoreboard</button></div></div>`;
-  confetti(up || stars === 3 ? 70 : 25, ["🎉", "⭐", "🚀", "💎", "✨"]);
-  document.getElementById("hm").onclick = home;
+  confetti(up || stars === 3 || res.newAchievements.length ? 70 : 25, ["🎉", "⭐", "🚀", "💎", "✨"]);
+  document.getElementById("hm").onclick = async () => { try { await loadSet(); } catch (e) {} restarted = false; home(); };
 }
 
 start();

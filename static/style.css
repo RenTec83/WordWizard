@@ -65,3 +65,11 @@ button.speak{background:var(--card2);color:var(--gold);box-shadow:0 4px 0 #11142
 .rankup{animation:pop .7s;color:var(--lime);font-weight:900;font-size:1.3rem}
 @media (min-width:500px){.slot,.letter{width:54px;height:64px}}
 .badge{display:inline-block;font-size:.8rem;font-weight:800;letter-spacing:.5px;color:var(--lime);border:1px solid #b6ff3b66;background:#b6ff3b14;border-radius:20px;padding:4px 12px;margin:4px 0}
+.field{width:100%;font:inherit;font-size:1.2rem;font-weight:800;text-align:center;color:var(--ink);background:#0b0d20;border:3px solid var(--cy);border-radius:14px;padding:12px;margin:10px 0 4px;outline:none;box-shadow:0 0 14px #00e5ff44}
+.chip{padding:8px 14px;font-size:.95rem;text-transform:none}
+#who{font-size:.9rem;letter-spacing:1px;color:var(--ink);margin-right:8px}
+.ach{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:10px}
+.a{background:#0b0d20aa;border:1px solid #ffd23f66;border-radius:12px;padding:10px 6px;display:flex;flex-direction:column;align-items:center;gap:2px;box-shadow:0 0 10px #ffd23f22}
+.a i{font-size:30px;font-style:normal}.a span{font-weight:900;font-size:.9rem;color:var(--gold)}
+.a small{font-size:.72rem;color:var(--dim);line-height:1.2}
+.a.locked{opacity:.4;border-color:#ffffff22;box-shadow:none}.a.locked span{color:var(--dim)}

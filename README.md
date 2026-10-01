@@ -1,8 +1,15 @@
 # Word Wizard
 
 Daily vocabulary app for kids: 5 new words a day, picture + meaning, two matching games and a
-letter-unscramble spelling game. Flask backend, plain HTML/JS frontend, no database
-(streak/stars are stored in the browser).
+letter-unscramble spelling game. Flask backend, plain HTML/JS frontend.
+
+## Players
+Each child enters a username on the "Who's playing?" screen and gets their own profile: XP, rank, streak,
+scoreboard, badges and a memory of every word they have finished. A child never sees a word twice until
+they have learned all of them. Typing the same name (any capitalisation) on any device returns to the same
+profile. Profiles are stored in a SQLite file, `wordquest.db`, created automatically next to `app.py`
+(not in git, so `git pull` never overwrites it). Set `WORDQUEST_DB` to use another location.
+Back it up by copying that file.
 
 ## Run on your Mac
     python3 -m venv venv && source venv/bin/activate
